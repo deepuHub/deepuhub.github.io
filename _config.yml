@@ -1,3 +1,7 @@
 theme: jekyll-theme-midnight
 title: Welcome to the DeepuHub’s homepage!
 description: Feel free to bookmark this page! [link to Google!](http://google.com)
+First Header | Second Header
+------------ | -------------
+Content from cell 1 | Content from cell 2
+Content in the first column | Content in the second column
