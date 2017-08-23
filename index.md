@@ -5,7 +5,7 @@ First Header | Second Header
 Content from cell 1 | Content from cell 2
 Content in the first column | Content in the second column
 
-Go to my [Test Table page](https://deepuhub.github.io/pages/Welcome.md)
+Go to my [Test Table page](https://deepuhub.github.io/pages/Welcome)
 
 You can use the [editor on GitHub](https://github.com/deepuHub/deepuhub.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
