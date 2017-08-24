@@ -1,3 +1,4 @@
-## Welcome to my GitHub Welcome Page!
+## [Homepage](https://deepuhub.github.io/)
 
-### Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+
+Life in itself is learning, all the way from 1-100 years. 
