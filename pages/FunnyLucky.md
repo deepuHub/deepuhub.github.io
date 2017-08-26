@@ -1,4 +1,4 @@
-## [Homepage](https://deepuhub.github.io/)
+{% include Navigation.html %}
 
 #### One of my friend, VLucky(*name changed for his own security reasons😊*), writes jokes and ends them with #SmileWithLV. Some of them might look silly to you but sure rest of them are gonna make you smile...
 
