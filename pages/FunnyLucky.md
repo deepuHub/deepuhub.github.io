@@ -55,6 +55,6 @@ Indian: "We kill mosquitoes!!!"
 
 Nik: There is chance of glass shattering, so stay away from windows when possible
 
-Luck: Sure.. I am using Mac:computer: only 
+Luck: Sure.. I am using Mac :computer: only 
 
 **6 #SmileWithLV**
