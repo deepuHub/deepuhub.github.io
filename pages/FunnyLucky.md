@@ -50,3 +50,11 @@ Tennis player: "Then what do you do with your tennis raquets?"
 Indian: "We kill mosquitoes!!!" 
 
 **5 #SmileWithLV**
+
+*#HurricaneHarvey*
+
+Nik: There is chance of glass shattering, so stay away from windows when possible
+
+Luck: Sure.. I am using Mac:computer: only 
+
+**6 #SmileWithLV**
