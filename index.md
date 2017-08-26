@@ -1,3 +1,5 @@
+{% include Navigation.html %}
+
 ## [Homepage](https://deepuhub.github.io/)
 
 #### These are the pages you can visit
