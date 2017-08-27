@@ -1,6 +1,6 @@
 {% include Navigation.html %}
 
-#### One of my friend, VLucky(*name changed for his own security reasons😊*), writes jokes and ends them with #SmileWithLV. Some of them might look silly to you but sure rest of them are gonna make you smile...
+#### One of my friend, VLucky(*name changed for his own safety reasons :smile:*), writes jokes and ends them with #SmileWithLV. Some of them might look silly to you but sure rest of them are gonna make you smile...
 
 
 Wife: I have a bag full of used clothes I'd like to donate. 
