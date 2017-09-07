@@ -51,7 +51,7 @@ Indian: "We kill mosquitoes!!!"
 
 **5 #SmileWithLV**
 
-*#HurricaneHarvey*
+*#Hurricane*
 
 Nik: There is chance of glass shattering, so stay away from windows when possible
 
