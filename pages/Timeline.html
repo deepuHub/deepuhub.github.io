@@ -1,42 +1,49 @@
 <html>
-<style>
-table {
-    font-family: arial, sans-serif;
-    border-collapse: collapse;
-    width: 100%;
-}
+	<style>
+		table {
+		font-family: arial, sans-serif;
+		border-collapse: collapse;
+		width: 100%;
+		}
 
-td, th {
-    border: 1px solid #dddddd;
-    text-align: left;
-    padding: 8px;
-}
+		td, th {
+		border: 1px solid #dddddd;
+		text-align: left;
+		padding: 8px;
+		}
 
-tr:nth-child(even) {
-    background-color: #dddddd;
-}
-</style>
-<body>
+		tr:nth-child(even) {
+		background-color: #dddddd;
+		}
+		caption {
+		font-family: arial, sans-serif;
+		font-size: 130%;
+		color: white;
+		background-color: #000000;
+		}
+	</style>
+	<body>
 
-<script>
-document.getElementById("demo").innerHTML += Date();
-</script>
+		<script>
+			document.getElementById("demo").innerHTML += Date();
+		</script>
 
-<table>
-  <tr>
-    <th>S.No</th>
-    <th>Item Name</th>
-    <th>Through</th>
-    <th>Start date</th>
-    <th>Completed date</th>
-  </tr>
-  <tr>
-    <td>1</td>
-    <td>Learning How to Learn: Powerful mental tools to help you master tough subjects</td>
-    <td>Coursera Inc.<td>
-    <td>21-Apr-2017</td>
-    <td>21-May-2017</td>
-  </tr>
-</table>
-</body>
+		<table>
+			<caption>List of Learnings over time</caption>
+			<tr>
+				<th>S.No</th>
+				<th>Item Name</th>
+				<th>Through</th>
+				<th>Start date</th>
+				<th>Completed date</th>
+			</tr>
+			<tr>
+				<td>1</td>
+				<td>Learning How to Learn: Powerful mental tools to help you master tough subjects</td>
+				<td>Coursera Inc.</td>
+				<td>21-Apr-2017</td>
+				<td>21-May-2017</td>
+			</tr>
+		</table>
+	</body>
 </html>
