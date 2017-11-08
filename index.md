@@ -1,7 +1,6 @@
 {% include Navigation.html %}
 
-#### These are the pages you can visit
+# Thanks for visiting my GitHub pages.
 
-1. [Welcome page](https://deepuhub.github.io/pages/Welcome)
-2. <a href="https://deepuhub.github.io/learning-list/" target="_blank">My Learning list</a>
-3. <a href="https://deepuhub.github.io/reading-list/" target="_blank">My Reading list</a>
+# I love to <a href="https://deepuhub.github.io/learning-list/" target="_blank">Learn</a>, <a href="https://deepuhub.github.io/reading-list/" target="_blank">Read</a> and <a href="https://cricclubs.com/IndiaHouseHoustonPremierLeague/viewPlayer.do?playerId=648419&clubId=3935" target="_blank">Play Cricket</a>.
+
