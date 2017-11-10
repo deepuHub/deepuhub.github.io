@@ -1,4 +1,7 @@
-**Get Inspired and Find your Passion!!** *Sooner the Funnier... :-)*
+{% include Navigation.html %}
+
+
+**Get Inspired and Find your Passion!! Sooner the Lovelier/Funnier/Better... :-)**
 
 S.No | Article | Got inspired in
 ------------ | ------------ | ------------
