@@ -11,9 +11,9 @@ My wife had a HTC Android phone and she moved to iPhone for good.
 Frankly, I was not very careful in handling my Nexus5, I gave it a couple of plunges to concrete surface and many throws on to the furniture/carpet over time. 
 And I dont believe in having cases for my phones (*unless your kids already damaged one phone*)  
 
-As my pretty Nexus5's battery started draining fast and hot, I restrained myself from buying a new phone in hopes of a better phone (*may be even forseeing the convergence of Laptop and Mobile*) like [ARA](https://atap.google.com/ara/), a Windows UWP wireless Continuum phone or an Ubuntu for that matter. 
+As my pretty Nexus5's battery started draining fast and hot, I restrained myself from buying a new phone in hopes of a better phone (*may be even forseeing the convergence of Laptop and Mobile*) like Google's Project ARA or a Windows UWP wireless Continuum phone, but lately both programs have ended😥. 
 
-So my Nexus5 gave me less of battery (*with moderate to less usage, by evening 5 it had less than 20% left*) and had speaker problems, so I took my better half's iPhone6 (*dont worry she had an iPhone7 by then* ) 
+So my Nexus5 gave me less of a battery (*with moderate to less usage, by evening 5 it had less than 20% left*) and had speaker problems, so I took my better half's iPhone6 (*dont worry she had an iPhone7 by then* ) 
 
 Spotlight | My iPhone6 | My Nexus5 | My Choice | Additional Comments 
 ------------ | ------------- | ------------- | ------------- | -------------
