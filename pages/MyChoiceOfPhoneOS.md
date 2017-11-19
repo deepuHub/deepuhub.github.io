@@ -25,9 +25,9 @@ AI | Siri is not bad, but it does not get my words correct in the first go. | Go
 
 Honestly, I wrote this post to answer myself, to make myself realize to use what suits for me and what I  Love to use.
 
-And you KNOW these debates of which smartphones to use are not ending soon, However I would encourage people to try/Learn new things and Try/Learn new phones because its fun and out of your comfort zone, And anyways most of the phones have to be upgraded after couple of years :-) 
+And you KNOW these debates of which smartphones to use are not ending soon, However I would encourage people to Try/Learn new things esp. phones because its fun and out of your comfort zone. 
 
-Moreover Switching from [App to And](https://www.android.com/switch/) or [And to App]() turns out not so difficult these days.
+Moreover Switching from [App to And](https://www.android.com/switch/) or [And to App](https://support.apple.com/en-us/HT201196) turns out not so difficult these days.
 
 Reminds me of [Steve Litchfield's](http://allaboutwindowsphone.com/authors/steve-litchfield.php) article ['Ignore the haters, use what you love'](http://allaboutwindowsphone.com/flow/item/22361_Ignore_the_haters_use_what_you.php)
 
