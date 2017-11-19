@@ -31,4 +31,4 @@ Moreover Switching from [App to And](https://www.android.com/switch/) or [And to
 
 Reminds me of [Steve Litchfield's](http://allaboutwindowsphone.com/authors/steve-litchfield.php) article ['Ignore the haters, use what you love'](http://allaboutwindowsphone.com/flow/item/22361_Ignore_the_haters_use_what_you.php)
 
-Time taken to write this post: 3 hrs *(Analysed for a month)*
+Time taken to write this post: 3 hrs *(Analysed/used iPhone for a 2 months before writing this post)*
