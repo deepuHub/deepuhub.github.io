@@ -22,7 +22,7 @@ AI | Siri is not bad, but it does not get my words correct in the first go. | Go
 
 Honestly, I wrote this post to answer myself, to make myself realize to use what suits for me and what I  Love to use.
 
-**And you know!!** these debates of which smartphones to use are not ending soon, However I would encourage people to Try/Learn new things and Try/Learn new phones because its fun and out of your comfort zone, And anyways most of the phones have to be upgraded after couple of years :-) 
+And you KNOW these debates of which smartphones to use are not ending soon, However I would encourage people to try/Learn new things and Try/Learn new phones because its fun and out of your comfort zone, And anyways most of the phones have to be upgraded after couple of years :-) 
 
 Moreover Switching from [App to And](https://www.android.com/switch/) or [And to App]() turns out not so difficult these days.
 
