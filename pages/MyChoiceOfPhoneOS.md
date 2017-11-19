@@ -1,5 +1,6 @@
 {% include Navigation.html %}
 
+## My choice of Phone OS
 *10 min Read*
 
 I used Nexus4 phone for a year followed by Nexus5 for 3 years. 
