@@ -15,6 +15,7 @@ As my pretty Nexus5's battery started draining fast and hot, I restrained myself
 
 So my Nexus5 gave me less of a battery (*with moderate to less usage, by evening 5 it had less than 20% left*) and had speaker problems, so I took my better half's iPhone6 (*dont worry she had an iPhone7 by then* ) 
 
+Here is the break-down of the things that I look for in my Phone
 Spotlight | My iPhone6 | My Nexus5 | My Choice | Additional Comments 
 ------------ | ------------- | ------------- | ------------- | -------------
 Keyboard | Though predictive typing enables faster typing than conventional, for me its not fast enough. | GBoard is so quick for swipe typing with # of quick tricks and it supports typing in my native languages and with ease  | My Nexus5 | This is the major drawback I found in no time, In fact, I could not imagine typing on a smartphone without having swipe feature. I tried typing the same sentence with Predictive typing (2m14s) and GBoard (1m14s), may be I have less practice with predictive but I didn't understand why would I need to lift my fingers after every letter and then lift again and choose the predicted word on the Top ribbon. 
@@ -27,8 +28,9 @@ Honestly, I wrote this post to answer myself, to make myself realize to use what
 
 And you KNOW these debates of which smartphones to use are not ending soon, However I would encourage people to Try/Learn new things esp. phones because its fun and out of your comfort zone. 
 
-Moreover Switching from [App to And](https://www.android.com/switch/) or [And to App](https://support.apple.com/en-us/HT201196) turns out not so difficult these days.
-
 Reminds me of [Steve Litchfield's](http://allaboutwindowsphone.com/authors/steve-litchfield.php) article ['Ignore the haters, use what you love'](http://allaboutwindowsphone.com/flow/item/22361_Ignore_the_haters_use_what_you.php)
 
-Time taken to write this post: 3 hrs *(Analysed/used iPhone for a 2 months before writing this post)*
+Moreover Switching from [App to And](https://www.android.com/switch/) or [And to App](https://support.apple.com/en-us/HT201196) turns out not so difficult these days.
+
+
+*Time taken to write this post: 3 hrs (Analysed/used iPhone for a 2 months before writing this post)*
