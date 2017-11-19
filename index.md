@@ -6,6 +6,4 @@
 # And Yes, I drew [Inspirations!!](https://deepuhub.github.io/pages/Inspirations)
 <br>
 <br>
-#### Thank you for spending your valuable time on my site!!
-<br>
-#### Hosted with ❤ from Github.
+#### Thank you for spending your valuable time on my site!
