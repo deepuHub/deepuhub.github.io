@@ -1,7 +1,7 @@
 {% include Navigation.html %}
 
 ## My choice of Phone OS
-*4 min Read*
+*~4 min Read*
 
 I used Nexus4 phone for a year followed by Nexus5 for 3 years. 
 Through these 4 years, I had minimum/respectable usablity knowledge of how things were shaping up in Mobile industry for Android and iOS.
