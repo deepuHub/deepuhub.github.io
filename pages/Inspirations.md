@@ -1,7 +1,7 @@
 {% include Navigation.html %}
 
 
-**Get Inspired and Find your Passion!! Sooner the Lovelier/Funnier/Better... :-)**
+**Get Inspired and Find your Passion!! Sooner the Lovelier/Funnier/Better... 👍**
 
 S.No | Article | Got inspired in
 ------------ | ------------ | ------------
@@ -13,4 +13,4 @@ S.No | Article | Got inspired in
 
 *"Believe in your Brain if not in yourself, either way its Magical!!"* **- Anonymous**
 
-*(It's me who wrote these anonymous quotes :-), but not sure if someone had them before I did ;-) )*
+*(It's me who wrote these anonymous quotes 😊, but not sure if someone had them before I did.)*
