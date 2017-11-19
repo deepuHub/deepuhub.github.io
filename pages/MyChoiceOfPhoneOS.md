@@ -16,6 +16,7 @@ As my pretty Nexus5's battery started draining fast and hot, I restrained myself
 So my Nexus5 gave me less of a battery (*with moderate to less usage, by evening 5 it had less than 20% left*) and had speaker problems, so I took my better half's iPhone6 (*dont worry she had an iPhone7 by then* ) 
 
 Here is the break-down of the things that I look for in my Phone
+
 Spotlight | My iPhone6 | My Nexus5 | My Choice | Additional Comments 
 ------------ | ------------- | ------------- | ------------- | -------------
 Keyboard | Though predictive typing enables faster typing than conventional, for me its not fast enough. | GBoard is so quick for swipe typing with # of quick tricks and it supports typing in my native languages and with ease  | My Nexus5 | This is the major drawback I found in no time, In fact, I could not imagine typing on a smartphone without having swipe feature. I tried typing the same sentence with Predictive typing (2m14s) and GBoard (1m14s), may be I have less practice with predictive but I didn't understand why would I need to lift my fingers after every letter and then lift again and choose the predicted word on the Top ribbon. 
