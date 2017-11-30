@@ -12,6 +12,8 @@ S.No | Article | Got inspired in
 
 *Never give up on a dream just because of the length of time it will take to accomplish it. The time will pass anyway.* **- H. Jackson Brown**
 
+*By failing to prepare, you are preparing to fail.* **- Benjamin Franklin**
+
 *My Ignorance is far beyond my reach, So I keep Learning* **- Anonymous** 
 
 *Believe in your Brain if not in yourself, either way its Magical!!* **- Anonymous**
