@@ -12,7 +12,9 @@ S.No | Article | Got inspired in
 
 *Never give up on a dream just because of the length of time it will take to accomplish it. The time will pass anyway.* **- H. Jackson Brown**
 
-*By failing to prepare, you are preparing to fail.* **- Benjamin Franklin**
+*By failing to prepare, you are preparing to fail.* **- Benjamin Franklin [(Founding Father of the United States)](https://en.wikipedia.org/wiki/Benjamin_Franklin)**
+
+*The secret to change is to focus all your energy, not on fighting the old, but building the new.* **- Socrates [(Greek philosopher)](https://en.wikipedia.org/wiki/Socrates)**
 
 *My Ignorance is far beyond my reach, So I keep Learning* **- Anonymous** 
 
