@@ -10,7 +10,7 @@ S.No | Article | Got inspired in
 3 | [Warren Buffett’s “2 List” Strategy](http://jamesclear.com/buffett-focus) | 2017 
 4 | [If You Commit to Nothing, You’ll Be Distracted By Everything](https://jamesclear.com/mental-toughness-marathon-monks) | 2017 
 
-*Never give up on a dream just because of the length of time it will take to accomplish it. The time will pass anyway.* **- H. Jackson Brown**
+*Never give up on a dream just because of the length of time it will take to accomplish it. The time will pass anyway.* **- H. Jackson Brown [(American author)](https://en.wikipedia.org/wiki/H._Jackson_Brown_Jr.)**
 
 *By failing to prepare, you are preparing to fail.* **- Benjamin Franklin [(Founding Father of the United States)](https://en.wikipedia.org/wiki/Benjamin_Franklin)**
 
