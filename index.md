@@ -4,7 +4,7 @@
 <br>
 # Yes, I drew [Inspirations!!](https://deepuhub.github.io/pages/Inspirations)
 <br>
-# And I like to <a href="https://cricclubs.com/IndiaHouseHoustonPremierLeague/viewPlayer.do?playerId=648419&clubId=3935" target="_blank">play Cricket</a>.
+# And I like to <a href="https://cricclubs.com/IndiaHouseHoustonPremierLeague/viewPlayer.do?playerId=648419&clubId=3935" target="_blank">play Cricket</a>, here is the <a href="https://cricclubs.com/IndiaHouseHoustonPremierLeague/teamSchedule.do?teamId=30&clubId=3935" target="_blank">schedule for Crushers</a>.
 <br>
 # Here is [My choice of Phone OS](https://deepuhub.github.io/pages/MyChoiceOfPhoneOS).
 <br>
