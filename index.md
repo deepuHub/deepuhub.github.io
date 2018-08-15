@@ -8,7 +8,7 @@
 <br>
 # Here is [My choice of Phone OS](https://deepuhub.github.io/pages/MyChoiceOfPhoneOS).
 <br>
-# Wait.. I began to 🏃🏽‍♂, below is my 5K result 😀 AND I am running a 10K in Dec,2018.
+# Wait.. I began to 🏃🏽‍♂, below is my 5K result 😀 AND I am running a 10K in Dec, 2018.
  <img src="https://deepuhub.github.io/images/5KResult.png" alt="5K Result"> 
 <!-- iframe width="100%" height="600" frameborder="0" style="border: 1px solid #ddd;" src="https://runsignup.com/Race/Results/33280/IndividualResult/NCkT?#U29020587"></iframe-->
 <br>
