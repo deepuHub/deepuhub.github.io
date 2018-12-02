@@ -34,3 +34,6 @@ Moreover Switching from [App to And](https://www.android.com/switch/) or [And to
 <br>
 
 *Time taken to write this post: 3 hrs (Analysed/used iPhone for a 2 months before writing this post)*
+
+
+{% include Navigation.html %}
