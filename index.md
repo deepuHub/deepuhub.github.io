@@ -4,7 +4,7 @@
 <br>
 # I like to <a href="https://cricclubs.com/IndiaHouseHoustonPremierLeague/viewPlayer.do?playerId=648419&clubId=3935" target="_blank">play 🏏</a>, here is the <a href="https://cricclubs.com/IndiaHouseHoustonPremierLeague/teamSchedule.do?teamId=66&clubId=3935" target="_blank">schedule for CRUSHERS</a>.
 <br>
-# [My running career 🏃🏽‍♂](https://deepuhub.github.io/pages/Run) has just begun...
+# [My running career 🏃🏽‍](https://deepuhub.github.io/pages/Run) has just begun...
 <br>
 # Yeah, I drew [Inspirations!!](https://deepuhub.github.io/pages/Inspirations)
 <br>
