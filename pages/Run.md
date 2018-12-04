@@ -3,7 +3,7 @@
 **I believe that Running and Life are similar in a way, they both keep challenging us to beat ourselves mentally/physically and evolve as a better person, one step at a time.** 
 <br>
 <br>
-Below are my 5K and 10k results from 01st Dec of 2015 and 2018 respectively!
+Below are my 5K and 10K(_<a href="https://deepuhub.github.io/images/ScheduleFor10K.jpg" target="_blank">4-week schedule I followed to chase down 10K</a>_) results from 01st Dec of 2015 and 2018 respectively!
 <br>
 <br>
 I am ~~planning~~ thinking to do a half marathon in 2019, but already have complaints on my knees 😝🤦‍
