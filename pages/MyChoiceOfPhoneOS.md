@@ -1,4 +1,16 @@
 {% include Navigation.html %}
+<!-- Code Begin to use gtag in githubpages -->
+<div id="text"></div> 
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-139981219-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-139981219-1');
+</script>
+<!-- Code End to use gtag in githubpages -->
 
 ## My choice of Phone OS
 *~4 min Read*
