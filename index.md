@@ -1,4 +1,16 @@
 {% include Navigation.html %}
+<div id="text"></div>
+ 
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-139981219-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-139981219-1');
+</script>
+
 <br>
 # My ❤❤❤ to <a href="https://deepuhub.github.io/learning-list/" target="_blank">Learn</a>, <a href="https://deepuhub.github.io/reading-list/" target="_blank">Read</a> has begun. It went 💻 starting November 2017... 
 <br>
