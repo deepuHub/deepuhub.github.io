@@ -1,3 +1,13 @@
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-139981219-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-139981219-1');
+</script>
+
 {% include Navigation.html %}
 
 **I believe that Running and Life are similar in a way, they both keep challenging us to beat ourselves mentally/physically and evolve as a better person, one step at a time.** 
