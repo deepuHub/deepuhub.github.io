@@ -1,4 +1,3 @@
-{% include Navigation.html %}
 <!-- Code Begin to use gtag in githubpages -->
 <div id="text"></div> 
 <!-- Global site tag (gtag.js) - Google Analytics -->
@@ -11,6 +10,8 @@
   gtag('config', 'UA-139981219-1');
 </script>
 <!-- Code End to use gtag in githubpages -->
+
+{% include Navigation.html %}
 
 <br>
 # My ❤❤❤ to <a href="https://deepuhub.github.io/learning-list/" target="_blank">Learn</a>, <a href="https://deepuhub.github.io/reading-list/" target="_blank">Read</a> has begun. It went 💻 starting November 2017... 
