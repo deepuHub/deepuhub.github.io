@@ -14,14 +14,16 @@
 {% include Navigation.html %}
 
 <br>
-# My ❤❤❤ to <a href="https://deepuhub.github.io/learning-list/" target="_blank">Learn</a>, <a href="https://deepuhub.github.io/reading-list/" target="_blank">Read</a> has begun. It went 💻 starting November 2017... 
-<br>
-# I like to <a href="https://cricclubs.com/IndiaHouseHoustonPremierLeague/viewPlayer.do?playerId=648419&clubId=3935" target="_blank">play 🏏</a>, here are the <a href="https://cricclubs.com/IndiaHouseHoustonPremierLeague/teamSchedule.do?teamId=91&clubId=3935" target="_blank">IH schedule</a> and <a href="https://cricclubs.com/HTBTcricket/teamSchedule.do?teamId=160&clubId=4110" target="_blank">SSCL schedule</a> for CRUSHERS.
-<br>
-# [My running career 🏃🏽‍](https://deepuhub.github.io/pages/Run) has just begun...
-<br>
-# Yeah, I drew [Inspirations!!](https://deepuhub.github.io/pages/Inspirations)
-<br>
-# Here is [My choice of Phone OS](https://deepuhub.github.io/pages/MyChoiceOfPhoneOS).
+
+# Saideep Gajula 
+### CV <a href="https://github.com/deepuHub/deepuhub.github.io/blob/master/docs/Saideep%20Gajula.pdf?raw=true" target="_blank">PDF<a/> <a href="https://github.com/deepuHub/deepuhub.github.io/blob/master/docs/Saideep%20Gajula.docx?raw=true" target="_blank">MSWord<a/>
+
+Spotlight | Present | Recent Past | Near Future | Timeline | Additional Comments 
+------------ | ------------- | ------------- | ------------- | ------------- | -------------
+Work | FDP | Petrel Plugins  | :computer: | :watch:| :relaxed:
+Read | <a href="https://www.amazon.com/DevOps-Handbook-World-Class-Reliability-Organizations-ebook/dp/B01M9ASFQ3/" target="_blank">The DevOps Handbook: How to Create World-Class Agility, Reliability, and Security in Technology Organizations</a> by Gene Kim, Patrick Debois, John Willis | <a href="https://www.amazon.com/Science-Self-Realization-Bhaktivedanta-Swami-Prabhupada/dp/0892132868/ref=asc_df_0892132868/?tag=hyprod-20&linkCode=df0&hvadid=312178271755&hvpos=1o1&hvnetw=g&hvrand=3544997109844903009&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9027616&hvtargid=pla-569499548369&psc=1&tag=&ref=&adgrpid=60258871377&hvpone=&hvptwo=&hvadid=312178271755&hvpos=1o1&hvnetw=g&hvrand=3544997109844903009&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9027616&hvtargid=pla-569499548369" target="_blank">The Science of Self-Realization</a> by A. C. Bhaktivedanta Swami Prabhupada  | <a href="https://www.amazon.com/Life-3-0-Being-Artificial-Intelligence-ebook/dp/B06WGNPM7V/ref=sr_1_1?keywords=life+3.0&qid=1559279657&s=gateway&sr=8-1" target="_blank">Life 3.0</a> by Max Tegmark | <a href="https://deepuhub.github.io/reading-list/" target="_blank">Reading belt</a> | :orange_book::newspaper::green_book:
+Learn | <a href="https://www.coursera.org/learn/machine-learning?" target="_blank">Machine Learning</a> offered by Stanford University on Coursera | <a href="https://www.coursera.org/learn/ai-for-everyone?" target="_blank">AI For Everyone</a> offered by deeplearning.ai on Coursera  | <a href="https://www.coursera.org/specializations/deep-learning?" target="_blank">Deep Learning Specialization</a> offered by deeplearing.ai | <a href="https://deepuhub.github.io/learning-list/" target="_blank">Learning belt</a> | :octocat:
+DIY | CV Generator | Build my GitHub pages | Work, Read, Learn, Have Fun, Repeat |  No Data, Generate it! |  :computer::orange_book::octocat::relaxed::repeat:
+
 <br>
 #### Thank you🙏🏽 for spending your valuable ⌚ on my site!
