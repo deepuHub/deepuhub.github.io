@@ -15,9 +15,10 @@
 
 <br>
 
-# Saideep Gajula 
+## Saideep Gajula 
 ### CV <a href="https://github.com/deepuHub/deepuhub.github.io/blob/master/docs/Saideep%20Gajula.pdf?raw=true" target="_blank">pdf<a/> <a href="https://github.com/deepuHub/deepuhub.github.io/blob/master/docs/Saideep%20Gajula.docx?raw=true" target="_blank">docx<a/>
-
+<br>
+  
 Spotlight | Present | Recent Past | Near Future | Timeline
 ------------ | ------------- | ------------- | ------------- | -------------
 Work | FDP | Petrel Plugins  | -- | --
@@ -27,3 +28,5 @@ DIY | CV Generator | Build my GitHub pages | Work, Read, Learn, Have Fun, Repeat
 
 <br>
 #### Thank you🙏🏽 for spending your valuable ⌚ on my site!
+<br>
+{% include Navigation.html %}
