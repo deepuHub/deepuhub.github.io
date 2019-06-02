@@ -30,4 +30,6 @@ DIY | Auto generate CV as webpage and pdf  | Build my GitHub pages | Work, Read,
 <br>
 {% include Navigation.html %}
 <br>
+{% include footer.html %}
+<br>
 Last modified on {% include lastmodified.txt %} 
