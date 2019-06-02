@@ -26,7 +26,7 @@ Learn | <a href="https://www.coursera.org/learn/machine-learning?" target="_blan
 DIY | Auto generate CV as webpage and pdf  | Build my GitHub pages | Work, Read, Learn, Have Fun, Repeat! |  No Data, Generate it! 
 
 <br>
-#### You can visit <a href="https://deepuhub.github.io/pages/personal.html"> my personal page</a> to know more about me.
+#### You can visit <a href="https://deepuhub.github.io/pages/personal"> my personal page</a> to know more about me.
 <br>
 ##### Thank you🙏🏽 for spending your valuable ⌚ on my site!
 <br>
