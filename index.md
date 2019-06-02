@@ -10,15 +10,8 @@
   gtag('config', 'UA-139981219-1');
 </script>
 <!-- Code End to use gtag in githubpages -->
-
 {% include Navigation.html %}
 <br>
-
----
-layout: index
-title: Brandon Amos
----
-
 ## Saideep Gajula 
 ### CV <a href="https://github.com/deepuHub/deepuhub.github.io/blob/master/docs/Saideep%20Gajula.pdf?raw=true" target="_blank">pdf<a/> <a href="https://github.com/deepuHub/deepuhub.github.io/blob/master/docs/Saideep%20Gajula.docx?raw=true" target="_blank">docx<a/>
 <br>
