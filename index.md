@@ -31,4 +31,5 @@ DIY | Auto generate CV as webpage and pdf  | Build my GitHub pages | Work, Read,
 ##### Thank you🙏🏽 for spending your valuable ⌚ on my site!
 <br>
 {% include Navigation.html %}
-{% include footer.html %} 
+<br>
+Last modified on {% include footer.html %} 
