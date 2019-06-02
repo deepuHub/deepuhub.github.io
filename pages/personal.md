@@ -24,3 +24,4 @@
 #### Thank you🙏🏽 for spending your valuable ⌚ on my site!
 <br>
 {% include Navigation.html %}
+{% include footer.html %} 
