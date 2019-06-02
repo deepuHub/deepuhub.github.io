@@ -1,8 +1,3 @@
----
-layout: index
-title: Brandon Amos
----
-
 <!-- Code Begin to use gtag in githubpages -->
 <div id="text"></div> 
 <!-- Global site tag (gtag.js) - Google Analytics -->
