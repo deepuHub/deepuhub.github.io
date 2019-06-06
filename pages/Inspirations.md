@@ -19,17 +19,14 @@ S.No | Article | Got inspired in
 3 | [Warren Buffett’s “2 List” Strategy](http://jamesclear.com/buffett-focus) | 2017 
 4 | [If You Commit to Nothing, You’ll Be Distracted By Everything](https://jamesclear.com/mental-toughness-marathon-monks) | 2017 
 
-*Never give up on a dream just because of the length of time it will take to accomplish it. The time will pass anyway.* **- H. Jackson Brown [(American author)](https://en.wikipedia.org/wiki/H._Jackson_Brown_Jr.)**
+* *Never give up on a dream just because of the length of time it will take to accomplish it. The time will pass anyway.* **- H. Jackson Brown [(American author)](https://en.wikipedia.org/wiki/H._Jackson_Brown_Jr.)**
 
-*By failing to prepare, you are preparing to fail.* **- Benjamin Franklin [(Founding Father of the United States)](https://en.wikipedia.org/wiki/Benjamin_Franklin)**
+* *By failing to prepare, you are preparing to fail.* **- Benjamin Franklin [(Founding Father of the United States)](https://en.wikipedia.org/wiki/Benjamin_Franklin)**
 
-*The secret to change is to focus all your energy, not on fighting the old, but building the new.* **- Socrates [(Greek philosopher)](https://en.wikipedia.org/wiki/Socrates)**
-
-*My Ignorance is far beyond my reach, So I keep Learning* **- Anonymous** 
-
-*Believe in your Brain if not in yourself, either way its Magical!!* **- Anonymous**
-
+* *The secret to change is to focus all your energy, not on fighting the old, but building the new.* **- Socrates [(Greek philosopher)](https://en.wikipedia.org/wiki/Socrates)**
+* *My Ignorance is far beyond my reach, So I keep Learning* **- Anonymous** 
+* *Believe in your Brain if not in yourself, either way its Magical!!* **- Anonymous**
 *(It's me who wrote these anonymous quotes 😊, but not sure if someone had them before I did.)*
-
-**T**ogether **E**veryone **A**chieves **M**ore!!
+* **T**ogether **E**veryone **A**chieves **M**ore!!
+<br>
 {% include Navigation.html %}
