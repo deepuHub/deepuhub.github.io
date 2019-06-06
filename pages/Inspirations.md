@@ -31,5 +31,5 @@ S.No | Article | Got inspired in
 
 *(It's me who wrote these anonymous quotes 😊, but not sure if someone had them before I did.)*
 
-
+**T**ogether **E**veryone **A**chieves **M**ore!!
 {% include Navigation.html %}
