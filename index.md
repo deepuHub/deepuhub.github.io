@@ -13,7 +13,7 @@
 {% include Navigation.html %}
 <br>
 ## Saideep Gajula 
-### CV <a href="https://github.com/deepuHub/deepuhub.github.io/blob/master/docs/Saideep%20Gajula.pdf?raw=true" target="_blank">pdf<a/> <a href="https://github.com/deepuHub/deepuhub.github.io/blob/master/docs/Saideep%20Gajula.docx?raw=true" target="_blank">docx<a/>
+### CV <a href="https://github.com/deepuHub/deepuhub.github.io/blob/master/docs/Saideep%20Gajula_1page.pdf?raw=true" target="_blank">pdf<a/> <a href="https://github.com/deepuHub/deepuhub.github.io/blob/master/docs/Saideep%20Gajula_1page.docx?raw=true" target="_blank">docx<a/>
 <br>
   
 Spotlight | Present | Recent Past | Near Future | Timeline
