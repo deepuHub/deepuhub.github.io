@@ -7,4 +7,4 @@
 
 Summary of cases for April |
 ------------ |
-[25-Apr-2020](https://deepuhub.github.io/COVID-19/20200425) |
+<a href="https://deepuhub.github.io/COVID-19/20200425" target="_blank">25-Apr-2020<a/> |
