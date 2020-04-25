@@ -13,7 +13,7 @@
 {% include Navigation.html %}
 <br>
 ## Saideep Gajula 
-### <a href="https://deepuhub.github.io/pages/COVID-19" target="_blank">COVID-19 Page<a/> updated regularly starting 19-Apr-2020 IST.
+### <a href="https://deepuhub.github.io/pages/COVID-19" target="_blank">COVID-19 Page<a/> updated regularly starting 25-Apr-2020 IST.
 ### CV <a href="https://github.com/deepuHub/deepuhub.github.io/blob/master/docs/Saideep%20Gajula.pdf?raw=true" target="_blank">pdf<a/> <a href="https://github.com/deepuHub/deepuhub.github.io/blob/master/docs/Saideep%20Gajula.docx?raw=true" target="_blank">docx<a/>
 <br>
   
