@@ -23,8 +23,11 @@ while x<=countDists
 	% grid minor;
 	set (gca, "ygrid", "on");
 	set (gca, "xminorgrid", "on");
-	title ([distList{x} " District Covid-19 Cases as of " mat2str(datestrings(dtsize(1),3)) "-" mat2str(datestrings(dtsize(1),2)) "-" mat2str(datestrings(dtsize(1),1))]);
-	datetick ("x", 6, "keepticks");
+	set (gca, "yaxislocation", "right");
+	title ({[distList{x} " District COVID-19 Cases Summary as of " mat2str(datestrings(dtsize(1),3)) "-" mat2str(datestrings(dtsize(1),2)) "-" mat2str(datestrings(dtsize(1),1))]});	
+	datetick ("x", 'dd-mmm', "keepticks");
+	% text (4, 4, {"Hello", "World"}, "horizontalalignment", "center", "verticalalignment", "middle");	
+	text (pi, 0.7, "arbitrary text");
 	hold on;
 	plot(daterecords, Active, "m--*");
 	hold on;
@@ -35,16 +38,19 @@ while x<=countDists
 	% Put some labels 
 	hold on;
 	% Labels and Legend
-	xlabel('Date (dd/mm)');
-	ylabel('# of cases');
+	xlabel({'Date in dd-mmm format'; '(Source: @ArogyaAndhra)'});
+	ylabel('Number of cases');
+	
 	% Specified in plot order
 	h = legend('Positive cases', 'Active cases', 'Discharged cases', 'Deceased cases');
 	legend (h, "location", "northwest");
 	% End Plot
-	% Print Plot to a jpg file 	
-	imagename = [distList{x} "_" mat2str(datestrings(dtsize(1),1)) mat2str(datestrings(dtsize(1),2)) mat2str(datestrings(dtsize(1),3)) ".jpg"];
+	% Print Plot to a jpg file 
+	todaydate = [mat2str(datestrings(dtsize(1),1)) mat2str(datestrings(dtsize(1),2)) mat2str(datestrings(dtsize(1),3))];	
+	imagename = [distList{x} "_" todaydate ".jpg"];
 	% print -djpg 20-Apr-2020.jpg
-	print (imagename,'-djpg');
+	mkdir("GraphsGenerated", todaydate);
+	print (["GraphsGenerated/" todaydate "/" imagename],'-djpg');
 	hold off;
 	x=x+1;
 endwhile
