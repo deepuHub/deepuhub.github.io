@@ -5,6 +5,7 @@
 
 **Click on the date to view the Summary of cases District wise and in total for Andhra Pradesh**
 
-Summary of cases for April |
+Date | Summary of cases for April | Total vs New  |
 ------------ |
-<a href="https://deepuhub.github.io/COVID-19/20200425" target="_blank">25-Apr-2020<a/> |
+25-Apr-2020 | <a href="https://deepuhub.github.io/COVID-19/pages/20200425" target="_blank">25-Apr-2020<a/> | |
+26-Apr-2020 | <a href="https://deepuhub.github.io/COVID-19/pages/20200426-Summary" target="_blank">Summary<a/> | <a href="https://deepuhub.github.io/COVID-19/pages/20200426-TotalvsNew" target="_blank">TotalvsNew<a/> |
