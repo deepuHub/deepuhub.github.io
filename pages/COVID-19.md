@@ -3,7 +3,7 @@
 
 **COVID-19 - last updated - 25-Apr-2020 15:39 IST**
 
-**Click on the date to view the Summary of cases District wise and in total for Andhra Pradesh**
+**Click on the links view the plots of cases District wise and in total for Andhra Pradesh**
 
 Date | Summary of cases for April | Total vs New  |
 ------------ |
