@@ -1,7 +1,7 @@
 {% include Navigation.html %}
 
 
-**COVID-19 - last updated - 26-Apr-2020 16:34 IST**
+**COVID-19 - last updated - 27-Apr-2020 23:07 IST**
 
 **Click on the links view the plots of cases District wise and in total for Andhra Pradesh**
 
