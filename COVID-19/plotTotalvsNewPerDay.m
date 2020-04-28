@@ -43,7 +43,7 @@ while x<=countRegions
 
 	h = legend({'Total Number of cases cumulative', 'Number of New cases per day'}, "location", "northwest");	
 	% % Print Plot to a jpg file 		
-	imagename = ["Last24Hrs_" regionList{x} "_" todaydatetimewsecs ".jpg"];
+	imagename = ["Last24Hrs_" regionList{x} "_" todaydate ".jpg"];
 	% save graph to a file
 	% print -djpg 20-Apr-2020.jpg	
 	print (["GraphsGenerated/" todaydate "/" imagename],'-djpg');

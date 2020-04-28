@@ -34,6 +34,7 @@ PAUSE
 %browser% http://hmfw.ap.gov.in/Daily_bullettin/24-04-2020/24-04-2020_10AM_Telugu.pdf
 %browser% http://hmfw.ap.gov.in/Daily_bullettin/25-04-2020/25-04-2020_10AM_Telugu.pdf
 %browser% http://hmfw.ap.gov.in/Daily_bullettin/26-04-2020/26-04-2020_10AM_Telugu.pdf
+%browser% http://hmfw.ap.gov.in/Daily_bullettin/26-04-2020/26-04-2020_10AM_Telugu.pdf
 REM %browser%
 REM %browser%
 REM %browser%
