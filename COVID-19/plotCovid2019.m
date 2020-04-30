@@ -1,3 +1,4 @@
+% run this everyday plotCovid2019;close;plotTotalvsNewPerDay;close;
 % Load the Dates first from a separate file
 datestrings = load("Data\\dates.dat");
 % convert dates into datenum format for plotting

@@ -586,3 +586,20 @@ Vishakapatnam,1,23,4,19,0
 Vizianagaram,0,0,0,0,0
 West Godavari,2,56,45,11,0
 Total,73,1332,1014,287,31
+
+30-Apr
+District,Last 24 hours,Total,Active,Discharged,Deceased
+Ananthapur,3,61,37,20,4
+Chittoor,3,80,64,16,0
+East Godavari,2,42,28,14,0
+Guntur,4,287,192,87,8
+Kadapa,4,73,45,28,0
+Krishna,10,246,206,32,8
+Kurnool,43,386,334,43,9
+Nellore,2,84,55,27,2
+Prakasam,0,60,37,23,0
+Srikakulam,0,5,5,0,0
+Vishakapatnam,0,23,3,20,0
+Vizianagaram,0,0,0,0,0
+West Godavari,0,56,45,11,0
+Total,71,1403,1051,321,31
