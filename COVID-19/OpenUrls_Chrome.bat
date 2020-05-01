@@ -34,12 +34,13 @@ PAUSE
 %browser% http://hmfw.ap.gov.in/Daily_bullettin/24-04-2020/24-04-2020_10AM_Telugu.pdf
 %browser% http://hmfw.ap.gov.in/Daily_bullettin/25-04-2020/25-04-2020_10AM_Telugu.pdf
 %browser% http://hmfw.ap.gov.in/Daily_bullettin/26-04-2020/26-04-2020_10AM_Telugu.pdf
-%browser% http://hmfw.ap.gov.in/Daily_bullettin/26-04-2020/26-04-2020_10AM_Telugu.pdf
-REM %browser%
-REM %browser%
-REM %browser%
-REM %browser%
-REM %browser%
+%browser% http://hmfw.ap.gov.in/Daily_bullettin/27-04-2020/27-04-2020_10AM_Telugu.pdf
+%browser% http://hmfw.ap.gov.in/Daily_bullettin/28-04-2020/28-04-2020_10AM_Telugu.pdf
+%browser% http://hmfw.ap.gov.in/Daily_bullettin/29-04-2020/29-04-2020_10AM_Telugu.pdf
+%browser% http://hmfw.ap.gov.in/Daily_bullettin/30-04-2020/30-04-2020_10AM_Telugu.pdf
+%browser% http://hmfw.ap.gov.in/Daily_bullettin/01-05-2020/01-05-2020_10AM_Telugu.pdf
+
+REM %browser% 
 
 REM Add rest of the FDP pages
 EXIT

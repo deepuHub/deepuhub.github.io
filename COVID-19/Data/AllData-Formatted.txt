@@ -537,6 +537,23 @@ Vizianagaram 0 0 0 0
 WestGodavari 39 30 9 0
 Total 1016 814 171 31
 
+26-Apr
+District,Last 24 hours,Total,Active,Discharged,Deceased
+Ananthapur,2,53,35,14,4
+Chittoor,0,73,60,13,0
+East Godavari,2,39,27,12,0
+Guntur,3,214,177,29,8
+Kadapa,3,58,30,28,0
+Krishna,52,177,140,29,8
+Kurnool,4,279,239,31,9
+Nellore,0,72,47,23,2
+Prakasam,3,56,33,23,0
+Srikakulam,0,3,3,0,0
+Vishakapatnam,0,22,3,19,0
+Vizianagaram,0,0,0,0,0
+West Godavari,12,51,41,10,0
+Total,81,1097,835,231,31
+
 
 27-Apr 
 Ananthapur,0,53,35,14,4
@@ -603,3 +620,20 @@ Vishakapatnam,0,23,3,20,0
 Vizianagaram,0,0,0,0,0
 West Godavari,0,56,45,11,0
 Total,71,1403,1051,321,31
+
+01-May
+District,Last 24 hours,Total,Active,Discharged,Deceased
+Ananthapur,6,67,41,22,4
+Chittoor,0,80,58,22,0
+East Godavari,0,42,25,17,0
+Guntur,19,306,201,97,8
+Kadapa,6,79,42,37,0
+Krishna,0,246,201,37,8
+Kurnool,25,411,335,66,10
+Nellore,0,84,38,43,3
+Prakasam,0,60,37,23,0
+Srikakulam,0,5,5,0,0
+Vishakapatnam,2,25,5,20,0
+Vizianagaram,0,0,0,0,0
+West Godavari,2,58,39,19,0
+Total,60,1463,1027,403,33
