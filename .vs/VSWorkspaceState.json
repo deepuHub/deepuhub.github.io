@@ -3,8 +3,10 @@
     "",
     "\\COVID-19",
     "\\COVID-19\\GraphsGenerated",
-    "\\docs"
+    "\\COVID-19\\pages",
+    "\\docs",
+    "\\pages"
   ],
-  "SelectedNode": "\\docs\\Saideep Gajula.docx",
+  "SelectedNode": "\\pages\\COVID-19.md",
   "PreviewInSolutionExplorer": false
 }
