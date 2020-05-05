@@ -1,10 +1,10 @@
-% run this everyday plotCovid2019;close;plotTotalvsNewPerDay;close;
+% run this everyday plotCovid2019;close;plotTotalvsNewPerDay;close;exit();
 % Load the Dates first from a separate file
 datestrings = load("Data\\dates.dat");
 % convert dates into datenum format for plotting
 daterecords = datenum(datestrings(:,1),datestrings(:,2),datestrings(:,3));
 % Get the districts list
-regionsstr = ["Ananthapur"; "Chittoor"; "EastGodavari"; "Guntur"; "Kadapa"; "Krishna"; "Kurnool"; "Nellore"; "Prakasam"; "Srikakulam"; "Vishakapatnam"; "Vizianagaram"; "WestGodavari"; "AndhraPradesh"];
+regionsstr = ["Ananthapur"; "Chittoor"; "EastGodavari"; "Guntur"; "Kadapa"; "Krishna"; "Kurnool"; "Nellore"; "Prakasam"; "Srikakulam"; "Vishakapatnam"; "Vizianagaram"; "WestGodavari"; "AndhraPradesh"; "Others"];
 % regionsstr = ["AndhraPradesh"];
 % regionsstr = ["Ananthapur"];
 regionList = cellstr(regionsstr);
@@ -89,39 +89,4 @@ while x<=countRegions
 	% hold off;
 	x=x+1;
 endwhile
-% % Figure to plot the new cases in the last 24 hrs
-% % figure; % open a new figure window
-% x =1;
-% plot(daterecords, Last24hours(:,1), "ko");	
-% hold on;
-% plot(daterecords, Last24hours(:,2), "ro");
-% hold on;
-% plot(daterecords, Last24hours(:,3), "go");
-% hold on;
-% plot(daterecords, Last24hours(:,4), "bo");
-% hold on;
-% plot(daterecords, Last24hours(:,5), "yo");
-% hold on;
-% plot(daterecords, Last24hours(:,6), "mo");
-% hold on;
-% plot(daterecords, Last24hours(:,7), "co");
-% hold on;
-% plot(daterecords, Last24hours(:,8), "wo");
-% hold on;
-% % Labels and Legend
-% xlabel({'Date in dd-mmm format'; '(Source: @ArogyaAndhra)'});
-% ylabel('Number of New Positive cases per Day');	
-% % grid minor;
-% set (gca, "ygrid", "on");
-% set (gca, "xminorgrid", "on");
-% set (gca, "yaxislocation", "right");
-% title ({[regionList{x} " COVID-19 Summary of New Positive cases per Day as of " mat2str(datestrings(dtsize(1),3)) "-" mat2str(datestrings(dtsize(1),2)) "-" mat2str(datestrings(dtsize(1),1))]});	
-% datetick ("x", 'dd-mmm', "keepticks");h = legend('New cases in Last 24Hrs');
-% legend (h, "location", "northwest");
-% % Print Plot to a jpg file 		
-% Last24Hrsimagename = [regionList{x} "_Last24Hrs_" todaydatetimewsecs ".jpg"];
-% % save graph to a file
-% % print -djpg 20-Apr-2020.jpg	
-% print (["GraphsGenerated/" todaydate "/" Last24Hrsimagename],'-djpg');
-% hold off;
 

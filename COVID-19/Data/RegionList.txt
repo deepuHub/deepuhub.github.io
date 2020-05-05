@@ -1,0 +1,15 @@
+AndhraPradesh
+Ananthapur
+Chittoor
+EastGodavari
+Guntur
+Kadapa
+Krishna
+Kurnool
+Nellore
+Prakasam
+Srikakulam
+Vishakapatnam
+Vizianagaram
+WestGodavari
+Others
