@@ -1,4 +1,4 @@
 # deepuhub.github.io
 My Github pages. 
 
-This site includes all my Work, Learning and Reading related updates. 
+This site includes all Learning, Reading, Fitness related updates. 
