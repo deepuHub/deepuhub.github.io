@@ -29,6 +29,8 @@ if (path.exists(fileloc)):
                     regionname = sheet.cell_value(i,0)
                     if regionname == "Total":
                         regionname = 'AndhraPradesh'
+                    elif regionname == 'Visakhapatnam':
+                        regionname = 'Vishakapatnam'
                     filedata = open("Data\\"+regionname.replace(" ","")+".dat","a")        
                     filedata.write("\n")
                     print('Adding data to '+ regionname)
