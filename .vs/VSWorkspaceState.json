@@ -1,12 +1,11 @@
 {
   "ExpandedNodes": [
     "",
-    "\\COVID-19",
-    "\\COVID-19\\GraphsGenerated",
     "\\COVID-19\\pages",
     "\\docs",
-    "\\pages"
+    "\\pages",
+    "\\_includes"
   ],
-  "SelectedNode": "\\COVID-19\\plotCovid2019.m",
+  "SelectedNode": "\\_includes\\lastmodified.txt",
   "PreviewInSolutionExplorer": false
 }
