@@ -1,11 +1,11 @@
 {
   "ExpandedNodes": [
     "",
-    "\\COVID-19\\pages",
+    "\\COVID-19",
     "\\docs",
     "\\pages",
     "\\_includes"
   ],
-  "SelectedNode": "\\_includes\\lastmodified.txt",
+  "SelectedNode": "\\COVID-19\\plotTotalvsNewPerDay.m",
   "PreviewInSolutionExplorer": false
 }
