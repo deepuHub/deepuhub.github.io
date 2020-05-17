@@ -1,7 +1,7 @@
 {% include Navigation.html %}
 
 
-**COVID-19 - last updated - 16-May-2020 19:21 IST**
+**COVID-19 - last updated - 17-May-2020 22:46 IST**
 
 **View the Daily graphs of Summary of cases in Total/District-wise for Andhra Pradesh, by clicking on the links below**
 
@@ -29,3 +29,4 @@ Date | Summary of cases | Total vs New  |
 14-May-2020 | <a href="https://deepuhub.github.io/COVID-19/pages/20200514-Summary" target="_blank">Summary<a/> | <a href="https://deepuhub.github.io/COVID-19/pages/20200514-TotalvsNew" target="_blank">TotalvsNew<a/> |
 15-May-2020 | <a href="https://deepuhub.github.io/COVID-19/pages/20200515-Summary" target="_blank">Summary<a/> | <a href="https://deepuhub.github.io/COVID-19/pages/20200515-TotalvsNew" target="_blank">TotalvsNew<a/> |
 16-May-2020 | <a href="https://deepuhub.github.io/COVID-19/pages/20200516-Summary" target="_blank">Summary<a/> | <a href="https://deepuhub.github.io/COVID-19/pages/20200516-TotalvsNew" target="_blank">TotalvsNew<a/> |
+17-May-2020 | <a href="https://deepuhub.github.io/COVID-19/pages/20200517-Summary" target="_blank">Summary<a/> | <a href="https://deepuhub.github.io/COVID-19/pages/20200517-TotalvsNew" target="_blank">TotalvsNew<a/> |
