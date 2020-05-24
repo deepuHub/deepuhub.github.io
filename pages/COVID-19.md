@@ -1,10 +1,11 @@
 {% include Navigation.html %}
 
 
-**COVID-19 - last updated - 18-May-2020 19:36 IST**
+**COVID-19 - last updated - 24-May-2020 21:07 IST**
 
 **View the Daily graphs of Summary of cases in Total/District-wise for Andhra Pradesh, by clicking on the links below**
 
+**Starting 19-May Govt Stopped releasing District wise data, hence graphs are present only for State data**
 Date | Summary of cases | Total vs New  |
 ------------ |
 25-Apr-2020 | <a href="https://deepuhub.github.io/COVID-19/pages/20200425" target="_blank">25-Apr-2020<a/> | - |
@@ -31,3 +32,12 @@ Date | Summary of cases | Total vs New  |
 16-May-2020 | <a href="https://deepuhub.github.io/COVID-19/pages/20200516-Summary" target="_blank">Summary<a/> | <a href="https://deepuhub.github.io/COVID-19/pages/20200516-TotalvsNew" target="_blank">TotalvsNew<a/> |
 17-May-2020 | <a href="https://deepuhub.github.io/COVID-19/pages/20200517-Summary" target="_blank">Summary<a/> | <a href="https://deepuhub.github.io/COVID-19/pages/20200517-TotalvsNew" target="_blank">TotalvsNew<a/> |
 18-May-2020 | <a href="https://deepuhub.github.io/COVID-19/pages/20200518-Summary" target="_blank">Summary<a/> | <a href="https://deepuhub.github.io/COVID-19/pages/20200518-TotalvsNew" target="_blank">TotalvsNew<a/> |
+<br>
+<br>
+Date | State - Summary of cases and Total vs New  |
+19-May-2020 | <a href="https://deepuhub.github.io/COVID-19/pages/20200519-SummaryNTotalvsNew" target="_blank"># of Cases Summary & Total vs New<a/> | 
+20-May-2020 | <a href="https://deepuhub.github.io/COVID-19/pages/20200520-SummaryNTotalvsNew" target="_blank"># of Cases Summary & Total vs New<a/> | 
+21-May-2020 | <a href="https://deepuhub.github.io/COVID-19/pages/20200521-SummaryNTotalvsNew" target="_blank"># of Cases Summary & Total vs New<a/> | 
+22-May-2020 | <a href="https://deepuhub.github.io/COVID-19/pages/20200522-SummaryNTotalvsNew" target="_blank"># of Cases Summary & Total vs New<a/> | 
+23-May-2020 | <a href="https://deepuhub.github.io/COVID-19/pages/20200523-SummaryNTotalvsNew" target="_blank"># of Cases Summary & Total vs New<a/> | 
+24-May-2020 | <a href="https://deepuhub.github.io/COVID-19/pages/20200524-SummaryNTotalvsNew" target="_blank"># of Cases Summary & Total vs New<a/> | 
