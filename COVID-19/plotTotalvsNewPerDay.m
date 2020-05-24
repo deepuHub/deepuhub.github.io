@@ -3,8 +3,8 @@ datestrings = load("Data\\dates.dat");
 % convert dates into datenum format for plotting
 daterecords = datenum(datestrings(:,1),datestrings(:,2),datestrings(:,3));
 % Get the districts list
-regionsstr = ["Ananthapur"; "Chittoor"; "EastGodavari"; "Guntur"; "Kadapa"; "Krishna"; "Kurnool"; "Nellore"; "Prakasam"; "Srikakulam"; "Vishakapatnam"; "Vizianagaram"; "WestGodavari"; "AndhraPradesh"];
-% regionsstr = ["AndhraPradesh"];
+% regionsstr = ["Ananthapur"; "Chittoor"; "EastGodavari"; "Guntur"; "Kadapa"; "Krishna"; "Kurnool"; "Nellore"; "Prakasam"; "Srikakulam"; "Vishakapatnam"; "Vizianagaram"; "WestGodavari"; "AndhraPradesh"];
+regionsstr = ["AndhraPradesh"];
 % regionsstr = ["Ananthapur"];
 regionList = cellstr(regionsstr);
 % Load covid cases data 
