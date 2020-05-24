@@ -6,7 +6,7 @@
 **View the Daily graphs of Summary of cases in Total/District-wise for Andhra Pradesh, by clicking on the links below**
 
 **Starting 19-May Govt Stopped releasing District wise data, hence graphs are present only for State data**
-<br>
+
 Date | Type of Graph | Type of Graph  
 ------------ | ------------- | ------------ 
 25-Apr-2020 | <a href="https://deepuhub.github.io/COVID-19/pages/20200425" target="_blank">25-Apr-2020<a/> | - 
