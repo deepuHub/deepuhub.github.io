@@ -2,10 +2,11 @@
   "ExpandedNodes": [
     "",
     "\\COVID-19",
+    "\\COVID-19\\pages",
     "\\docs",
     "\\pages",
     "\\_includes"
   ],
-  "SelectedNode": "\\COVID-19\\plotCovid2019.m",
+  "SelectedNode": "\\COVID-19\\pages\\20200528-SummaryNTotalvsNew.md",
   "PreviewInSolutionExplorer": false
 }
