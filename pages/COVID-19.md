@@ -44,3 +44,11 @@ Date | Type of Graph | Type of Graph
 27-May-2020 | <a href="https://deepuhub.github.io/COVID-19/pages/20200527-SummaryNTotalvsNew" target="_blank"># of Cases Summary & Total vs New<a/>
 28-May-2020 | <a href="https://deepuhub.github.io/COVID-19/pages/20200528-SummaryNTotalvsNew" target="_blank"># of Cases Summary & Total vs New<a/>
 29-May-2020 | <a href="https://deepuhub.github.io/COVID-19/pages/20200529-SummaryNTotalvsNew" target="_blank"># of Cases Summary & Total vs New<a/>
+30-May-2020 | <a href="https://deepuhub.github.io/COVID-19/pages/20200530-SummaryNTotalvsNew" target="_blank"># of Cases Summary & Total vs New<a/>
+31-May-2020 | <a href="https://deepuhub.github.io/COVID-19/pages/20200531-SummaryNTotalvsNew" target="_blank"># of Cases Summary & Total vs New<a/>
+01-Jun-2020 | <a href="https://deepuhub.github.io/COVID-19/pages/20200601-SummaryNTotalvsNew" target="_blank"># of Cases Summary & Total vs New<a/>
+02-Jun-2020 | <a href="https://deepuhub.github.io/COVID-19/pages/20200602-SummaryNTotalvsNew" target="_blank"># of Cases Summary & Total vs New<a/>
+03-Jun-2020 | <a href="https://deepuhub.github.io/COVID-19/pages/20200603-SummaryNTotalvsNew" target="_blank"># of Cases Summary & Total vs New<a/>
+04-Jun-2020 | <a href="https://deepuhub.github.io/COVID-19/pages/20200604-SummaryNTotalvsNew" target="_blank"># of Cases Summary & Total vs New<a/>
+05-Jun-2020 | <a href="https://deepuhub.github.io/COVID-19/pages/20200605-SummaryNTotalvsNew" target="_blank"># of Cases Summary & Total vs New<a/>
+06-Jun-2020 | <a href="https://deepuhub.github.io/COVID-19/pages/20200606-SummaryNTotalvsNew" target="_blank"># of Cases Summary & Total vs New<a/>
