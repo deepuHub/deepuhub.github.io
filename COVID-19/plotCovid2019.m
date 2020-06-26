@@ -65,28 +65,7 @@ while x<=countRegions
 	hold off;
 	% End Plot
 	
-	% Last24hours(:,x) = Last24Hrs; 
-
-	% Figure to plot the new cases in the last 24 hrs
-	% figure; % open a new figure window
-	% plot(daterecords, Last24Hrs, "c-*");	
-	% hold on;
-	% % Labels and Legend
-	% xlabel({'Date in dd-mmm format'; '(Source: @ArogyaAndhra)'});
-	% ylabel('Number of New Positive cases per Day');	
-	% % grid minor;
-	% set (gca, "ygrid", "on");
-	% set (gca, "xminorgrid", "on");
-	% set (gca, "yaxislocation", "right");
-	% title ({[regionList{x} " COVID-19 Summary of New Positive cases per Day as of " mat2str(datestrings(dtsize(1),3)) "-" mat2str(datestrings(dtsize(1),2)) "-" mat2str(datestrings(dtsize(1),1))]});	
-	% datetick ("x", 'dd-mmm', "keepticks");h = legend('New cases in Last 24Hrs');
-	% legend (h, "location", "northwest");
-	% % Print Plot to a jpg file 		
-	% Last24Hrsimagename = [regionList{x} "_Last24Hrs_" todaydate ".jpg"];
-	% % save graph to a file
-	% % print -djpg 20-Apr-2020.jpg	
-	% print (["GraphsGenerated/" todaydate "/" Last24Hrsimagename],'-djpg');
-	% hold off;
+	close;
 	x=x+1;
 endwhile
 
