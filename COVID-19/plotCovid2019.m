@@ -1,25 +1,17 @@
 % run this everyday plotCovid2019;close;plotTotalvsNewPerDay;close;exit();
-% Load the Dates first from a separate file
-datestrings = load("Data\\dates.dat");
-% convert dates into datenum format for plotting
-daterecords = datenum(datestrings(:,1),datestrings(:,2),datestrings(:,3));
 % Get the districts list
-% regionsstr = ["Ananthapur"; "Chittoor"; "EastGodavari"; "Guntur"; "Kadapa"; "Krishna"; "Kurnool"; "Nellore"; "Prakasam"; "Srikakulam"; "Vishakapatnam"; "Vizianagaram"; "WestGodavari"; "AndhraPradesh"];
-regionsstr = ["AndhraPradesh"];
+regionsstr = ["Ananthapur"; "Chittoor"; "EastGodavari"; "Guntur"; "Kadapa"; "Krishna"; "Kurnool"; "Nellore"; "Prakasam"; "Srikakulam"; "Vishakapatnam"; "Vizianagaram"; "WestGodavari"; "AndhraPradesh"];
+% regionsstr = ["Ananthapur"; "AndhraPradesh"];
 % regionsstr = ["Ananthapur"];
 regionList = cellstr(regionsstr);
 % Load covid cases data 
 countRegions = size(regionList);
 countRegions = countRegions(1);
-countDates = size(datestrings);
-countDates = countDates(1);
-% Store current date and time stamps
-														  
-todaydate = '19-Jun-2020';
+% Store current date and time stamps														  
+todaydate = '20-Jun-2020';
 todaydatetimewsecs = datestr(now(),'dd-mmm-yyyy HHMMSS');
 % create folder for graphs 
 mkdir("GraphsGenerated", todaydate);
-Last24hours = zeros(countDates,countRegions);
 x=1;
 while x<=countRegions  
 	coviddata = load(["Data\\" regionList{x} ".dat"]);
@@ -29,6 +21,8 @@ while x<=countRegions
 	Active = coviddata(:,3);
 	Discharged = coviddata(:,4); 
 	Deceased = coviddata(:,5); 
+	daterecords = datenum(coviddata(:,6),coviddata(:,7),coviddata(:,8));
+	datestrings = coviddata(:,6:8);
 	dtsize = size(datestrings);
 	% Begin Plot
 	% plot(daterecords, Last24Hrs, "y^");

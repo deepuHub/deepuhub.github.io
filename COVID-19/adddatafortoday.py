@@ -1,12 +1,16 @@
 import xlrd;
 from datetime import date;
+import datetime
 import os.path
 from os import path
 
 # get today's excel
-today = date.today()
+today = datetime.date.today()
+today = today - datetime.timedelta(days=7)
+print(today)
 todayexcel = today.strftime("%d-%b-%Y")
 todaydate = today.strftime("%Y,%m,%d,0,0,0")
+toddate = today.strftime("%Y,%m,%d")
 # print(todayexcel)
 fileloc = ("Data\\dailyexcels\\"+todayexcel+".xlsx")
 if (path.exists(fileloc)):
@@ -27,7 +31,7 @@ if (path.exists(fileloc)):
                 if i != 0:
                     #print(sheet.cell_value(i,0))
                     regionname = sheet.cell_value(i,0)
-                    if regionname == "Total":
+                    if regionname == "Total Ap Cases":
                         regionname = 'AndhraPradesh'
                     elif regionname == 'Anantapur':
                         regionname = 'Ananthapur'
@@ -38,11 +42,14 @@ if (path.exists(fileloc)):
                     print('Adding data to '+ regionname)
                     #filedata.close()
                     for j in range(sheet.ncols):
+                        print(j)
                         if j != 0:
-                            if j != 1:
+                            if j > 1 and j != 5:
                                 filedata.write(","+str(int(sheet.cell_value(i,j))))
-                            else:
+                            elif j == 1:
                                 filedata.write(str(int(sheet.cell_value(i,j))))
+                            elif j == 5:
+                                filedata.write("," + str(int(sheet.cell_value(i,j))) + "," + toddate)
                     filedata.close()
                     print('Completed Adding data to '+ regionname)
             print('Completed Adding data for '+ todayexcel)                            
