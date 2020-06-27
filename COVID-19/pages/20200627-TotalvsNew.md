@@ -26,7 +26,4 @@
 <img src="https://deepuhub.github.io/COVID-19/GraphsGenerated/27-Jun-2020/Last24Hrs_Vizianagaram_27-Jun-2020.jpg" alt="Vizianagaram COVID-19 Cases Summary as of 27-Jun-2020">
  <br>
 <img src="https://deepuhub.github.io/COVID-19/GraphsGenerated/27-Jun-2020/Last24Hrs_WestGodavari_27-Jun-2020.jpg" alt="WestGodavari COVID-19 Cases Summary as of 27-Jun-2020">
- <br>
- <img src="https://deepuhub.github.io/COVID-19/GraphsGenerated/27-Jun-2020/Last24Hrs_Others_27-Jun-2020.jpg" alt="Others COVID-19 Cases Summary as of 27-Jun-2020">
- <br>
-
+ <br> 
