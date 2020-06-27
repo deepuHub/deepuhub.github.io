@@ -7,6 +7,7 @@ from os import path
 
 # get today
 today = datetime.date.today()
+#today = today - datetime.timedelta(days=1)
 # get yesterday date formats required
 yest = today - datetime.timedelta(days=1)
 yestddmmmyyyy = str(yest.strftime("%d-%b-%Y"))
@@ -58,23 +59,23 @@ if (path.exists(srcsummary)):
         fin = open(desttotvsnew, "wt")
         fin.write(data)
         fin.close()
-
-        # update covid file to add today links
-        covidfile = "..\\pages\\COVID-19.md"
-        if (path.exists(covidfile)):
-            with open(covidfile) as file:
-                for last_line in file:
-                    lastline = last_line
-            print(lastline)
-            if yestddmmmyyyy in lastline:
-                todayline = lastline.replace(yestddmmmyyyy,todayddmmmyyy)
-                todayline = todayline.replace(yestyyyymmdd,todayyyyymmdd)
-                print(todayline)
-                file = open("..\\pages\\COVID-19.md","a")
-                file.write("\n" + todayline)
-                file.close()
-        else:
-            print(covidfile +" does not exist")
+        print("Added file and links for " + str(today));
+        ## update covid file to add today links
+        #covidfile = "..\\pages\\COVID-19.md"
+        #if (path.exists(covidfile)):
+        #    with open(covidfile) as file:
+        #        for last_line in file:
+        #            lastline = last_line
+        #    print(lastline)
+        #    if yestddmmmyyyy in lastline:
+        #        todayline = lastline.replace(yestddmmmyyyy,todayddmmmyyy)
+        #        todayline = todayline.replace(yestyyyymmdd,todayyyyymmdd)
+        #        print(todayline)
+        #        file = open("..\\pages\\COVID-19.md","a")
+        #        file.write("\n" + todayline)
+        #        file.close()
+        #else:
+        #    print(covidfile +" does not exist")
     else:
         print(srctotvsnew + "does not exist")
 else:

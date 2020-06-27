@@ -7,7 +7,8 @@ regionList = cellstr(regionsstr);
 countRegions = size(regionList);
 countRegions = countRegions(1);
 % Store current date and time stamps
-todaydate = '20-Jun-2020'; 
+% todaydate = '26-Jun-2020'; 
+todaydate = datestr(now(),'dd-mmm-yyyy');
 todaydatetimewsecs =  datestr(now(),'dd-mmm-yyyy HHMMSS');
 % create folder for graphs 
 mkdir("GraphsGenerated", todaydate);
@@ -43,6 +44,7 @@ while x<=countRegions
 	% print -djpg 20-Apr-2020.jpg	
 	print (["GraphsGenerated/" todaydate "/" imagename],'-djpg');
 	hold off;
+	close;
 	% End Plot	
 	x=x+1;
 endwhile

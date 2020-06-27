@@ -1,14 +1,21 @@
 {% include Navigation.html %}
 
 
-**COVID-19 - last updated - 27-Jun-2020 18:38 IST**
+**COVID-19 - last updated - 27-Jun-2020 23:21 IST**
 
-**View the Daily graphs of Summary of cases in Total/District-wise for Andhra Pradesh, by clicking on the links below**
+**View the Daily graphs of Summary / Daily New cases in Total / District-wise for Andhra Pradesh, by clicking on the links below**
 
-**Starting 19-May Govt Stopped releasing District wise data, hence graphs are present only for State data**
+**From 19-May to 19-Jun Govt did not release District wise data, hence graphs are present only for State data**
 
 Date | Type of Graph | Type of Graph  
 ------------ | ------------- | ------------ 
+27-Jun-20 |	<a href="https://deepuhub.github.io/COVID-19/pages/20200627-Summary" target="_blank">Summary<a/> | <a href="https://deepuhub.github.io/COVID-19/pages/20200627-TotalvsNew"	target="_blank">TotalvsNew<a/>
+26-Jun-20 |	<a href="https://deepuhub.github.io/COVID-19/pages/20200626-Summary" target="_blank">Summary<a/> | <a href="https://deepuhub.github.io/COVID-19/pages/20200626-TotalvsNew"	target="_blank">TotalvsNew<a/>
+25-Jun-20 |	<a href="https://deepuhub.github.io/COVID-19/pages/20200625-Summary" target="_blank">Summary<a/> | <a href="https://deepuhub.github.io/COVID-19/pages/20200625-TotalvsNew"	target="_blank">TotalvsNew<a/>
+24-Jun-20 |	<a href="https://deepuhub.github.io/COVID-19/pages/20200624-Summary" target="_blank">Summary<a/> | <a href="https://deepuhub.github.io/COVID-19/pages/20200624-TotalvsNew"	target="_blank">TotalvsNew<a/>
+23-Jun-20 |	<a href="https://deepuhub.github.io/COVID-19/pages/20200623-Summary" target="_blank">Summary<a/> | <a href="https://deepuhub.github.io/COVID-19/pages/20200623-TotalvsNew"	target="_blank">TotalvsNew<a/>
+22-Jun-20 |	<a href="https://deepuhub.github.io/COVID-19/pages/20200622-Summary" target="_blank">Summary<a/> | <a href="https://deepuhub.github.io/COVID-19/pages/20200622-TotalvsNew"	target="_blank">TotalvsNew<a/>
+21-Jun-20 |	<a href="https://deepuhub.github.io/COVID-19/pages/20200621-Summary" target="_blank">Summary<a/> | <a href="https://deepuhub.github.io/COVID-19/pages/20200621-TotalvsNew"	target="_blank">TotalvsNew<a/>
 20-Jun-20 |	<a href="https://deepuhub.github.io/COVID-19/pages/20200620-Summary" target="_blank">Summary<a/> | <a href="https://deepuhub.github.io/COVID-19/pages/20200620-TotalvsNew"	target="_blank">TotalvsNew<a/>
 19-Jun-20 |	<a href="https://deepuhub.github.io/COVID-19/pages/20200619-SummaryNTotalvsNew" target="_blank"># of Cases Summary & Total vs New<a/>
 18-Jun-20 |	<a href="https://deepuhub.github.io/COVID-19/pages/20200618-SummaryNTotalvsNew" target="_blank"># of Cases Summary & Total vs New<a/>
