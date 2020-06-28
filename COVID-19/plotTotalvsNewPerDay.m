@@ -37,7 +37,7 @@ while x<=countRegions
 	% % Specified in plot order
 	title ({[regionList{x} " COVID-19 'Total cases cumulative' vs 'New cases per day' as of " mat2str(datestrings(dtsize(1),3)) "-" mat2str(datestrings(dtsize(1),2)) "-" mat2str(datestrings(dtsize(1),1))]});	
 
-	h = legend({'Total Number of cases cumulative', 'Number of New cases per day'}, "location", "northwest");	
+	h = legend({'Number of New cases per day', 'Total Number of cases cumulative'}, "location", "northwest");	
 	% % Print Plot to a jpg file 		
 	imagename = ["Last24Hrs_" regionList{x} "_" todaydate ".jpg"];
 	% save graph to a file

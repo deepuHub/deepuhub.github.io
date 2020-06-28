@@ -5,7 +5,7 @@ EastGodavari .@egodavarigoap @EG_Collectorate
 Guntur .@CollectorGuntur
 Kadapa .@CollectorKadapa
 Krishna .@krishnadgoap
-Kurnool .@veerapandiang
+Kurnool .@veerapandiang @kurnoolgoap
 Nellore .@nelloregoap
 Prakasam .@prakasamgoap
 Srikakulam .@srikakulamgoap
