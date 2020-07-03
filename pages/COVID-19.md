@@ -10,7 +10,7 @@
 Date | Type of Graph | Type of Graph  
 ------------ | ------------- | ------------ 
 03-Jul-20 |	<a href="https://deepuhub.github.io/COVID-19/pages/20200703-Summary" target="_blank">Summary<a/> | <a href="https://deepuhub.github.io/COVID-19/pages/20200703-TotalvsNew"	target="_blank">TotalvsNew<a/>
-02-Jul-20 |	<a href="https://deepuhub.github.io/COVID-19/pages/20200702-Summary" target="_blank">Summary<a/> | <a href="https://deepuhub.github.io/COVID-19/pages/20200703-TotalvsNew"	target="_blank">TotalvsNew<a/>
+02-Jul-20 |	<a href="https://deepuhub.github.io/COVID-19/pages/20200702-Summary" target="_blank">Summary<a/> | <a href="https://deepuhub.github.io/COVID-19/pages/20200702-TotalvsNew"	target="_blank">TotalvsNew<a/>
 01-Jul-20 |	<a href="https://deepuhub.github.io/COVID-19/pages/20200701-Summary" target="_blank">Summary<a/> | <a href="https://deepuhub.github.io/COVID-19/pages/20200701-TotalvsNew"	target="_blank">TotalvsNew<a/>
 30-Jun-20 |	<a href="https://deepuhub.github.io/COVID-19/pages/20200630-Summary" target="_blank">Summary<a/> | <a href="https://deepuhub.github.io/COVID-19/pages/20200630-TotalvsNew"	target="_blank">TotalvsNew<a/>
 29-Jun-20 |	<a href="https://deepuhub.github.io/COVID-19/pages/20200629-Summary" target="_blank">Summary<a/> | <a href="https://deepuhub.github.io/COVID-19/pages/20200629-TotalvsNew"	target="_blank">TotalvsNew<a/>
