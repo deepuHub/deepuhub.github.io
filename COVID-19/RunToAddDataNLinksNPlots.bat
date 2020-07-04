@@ -13,7 +13,10 @@ set commitdatetime=%time:~0,2%hrs%time:~3,2%min%time:~6,2%secs_%date:~-7,2%-%dat
 echo commitdatetime is %commitdatetime%
 @echo on
 git status
+pause
 git commit -a -m "Auto-push for %commitdatetime% sample"
+pause
 git push origin master
+pause
 git status
 pause
