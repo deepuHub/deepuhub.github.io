@@ -11,3 +11,11 @@ Data Related
 Sharing Related
 ---------------
 1. Please reach me on twitter @sai_dp for any corrections or questions or sharing this information.
+
+Steps to Run
+------------
+1. Acquire Data is manual
+2. Cleaning Data is manual
+3. Once you have the daily excel in place with the correct format
+4. Check if you have the paths of Octave and python added to the system 'PATH' variable.
+5. Run the bat file 'RunToAddDataNLinksNPlotsNPushToGit.bat' file
