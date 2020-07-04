@@ -1,0 +1,7 @@
+python "C:\Users\SGajula\NotBackedUp\Me\Learn\GitHub\deepuHub\COVID-19\adddatafortoday.py" > Logs\file_adddata_%time:~0,2%%time:~3,2%%time:~6,2%_%date:~-10,2%%date:~-7,2%%date:~-4,4%.txt
+python "C:\Users\SGajula\NotBackedUp\Me\Learn\GitHub\deepuHub\COVID-19\addtodaylinks.py" > Logs\file_addlinks_%time:~0,2%%time:~3,2%%time:~6,2%_%date:~-10,2%%date:~-7,2%%date:~-4,4%.txt
+TIMEOUT 10
+octave --no-gui "C:\Users\SGajula\NotBackedUp\Me\Learn\GitHub\deepuHub\COVID-19\plotCovid2019.m"
+TIMEOUT 20
+octave --no-gui "C:\Users\SGajula\NotBackedUp\Me\Learn\GitHub\deepuHub\COVID-19\plotTotalvsNewPerDay.m"
+PAUSE
