@@ -30,8 +30,9 @@ srctotvsnew = "pages\\" + yesttotvsnew
 # destination file
 destsummary = 'pages\\' + todaysummary
 desttotvsnew = 'pages\\' + todaytotvsnew
-
-if (path.exists(srcsummary)):
+if(path.exists(destsummary)):
+    print("Today's links already added.")
+elif (path.exists(srcsummary)):
     if (path.exists(srctotvsnew)):
         # copy yest files for today
         shutil.copy(srcsummary,destsummary)
