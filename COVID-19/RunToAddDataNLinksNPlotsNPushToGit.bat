@@ -15,7 +15,7 @@ echo commitdatetime is %commitdatetime%
 git status
 pause
 git add .
-git commit -a -m "Auto-push for %commitdatetime% sample"
+git commit -a -m "Auto-push for %commitdatetime%"
 pause
 git push origin master
 pause
