@@ -11,11 +11,13 @@ today = datetime.date.today()
 # get yesterday date formats required
 yest = today - datetime.timedelta(days=1)
 yestddmmmyyyy = str(yest.strftime("%d-%b-%Y"))
+yestddmmmyy = str(yest.strftime("%d-%b-%y"))
 yestyyyymmdd = str(yest.strftime("%Y%m%d"))
 yestsummary = str(yest.strftime("%Y%m%d-Summary.md"))
 yesttotvsnew= str(yest.strftime("%Y%m%d-TotalvsNew.md"))
 # get today date formats required
 todayddmmmyyy = str(today.strftime("%d-%b-%Y"))
+todayddmmmyy = str(today.strftime("%d-%b-%y"))
 todayyyyymmdd = str(today.strftime("%Y%m%d"))
 todaysummary = str(today.strftime("%Y%m%d-Summary.md"))
 todaytotvsnew= str(today.strftime("%Y%m%d-TotalvsNew.md"))
@@ -62,21 +64,31 @@ elif (path.exists(srcsummary)):
         fin.close()
         print("Added file and links for " + str(today));
         ## update covid file to add today links
-        #covidfile = "..\\pages\\COVID-19.md"
-        #if (path.exists(covidfile)):
-        #    with open(covidfile) as file:
-        #        for last_line in file:
-        #            lastline = last_line
-        #    print(lastline)
-        #    if yestddmmmyyyy in lastline:
-        #        todayline = lastline.replace(yestddmmmyyyy,todayddmmmyyy)
-        #        todayline = todayline.replace(yestyyyymmdd,todayyyyymmdd)
-        #        print(todayline)
-        #        file = open("..\\pages\\COVID-19.md","a")
-        #        file.write("\n" + todayline)
-        #        file.close()
-        #else:
-        #    print(covidfile +" does not exist")
+        covidfile = "..\\pages\\COVID-19.md"
+        if (path.exists(covidfile)):
+            with open(covidfile) as file:
+                new_file_content = ""
+                for line in file:
+                    #print(line)
+                    if yestyyyymmdd in line:
+                        todayline = line.replace(yestddmmmyyyy,todayddmmmyyy)
+                        todayline = todayline.replace(yestyyyymmdd,todayyyyymmdd)
+                        todayline = todayline.replace(yestddmmmyy,todayddmmmyy)
+                        #print(line)
+                        print("Adding Line - " + todayline)
+                        new_file_content += todayline
+                    elif yestddmmmyyyy in line:
+                        lastupdateddate = line.replace(yestddmmmyyyy,todayddmmmyyy)
+                        print("Updating Last updated date in Line to - " + lastupdateddate)
+                        new_file_content += lastupdateddate
+                        continue
+                    new_file_content += line
+                #print(new_file_content)
+                file = open("..\\pages\\COVID-19.md","w")
+                file.write(new_file_content)
+                file.close()
+        else:
+            print(covidfile +" does not exist")
     else:
         print(srctotvsnew + "does not exist")
 else:
