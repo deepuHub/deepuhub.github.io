@@ -19,7 +19,7 @@ git status
 timeout 15
 git add .
 git commit -a -m "Auto-push for %commitdatetime%"
-pause
+timeout 120
 git push origin master
 git status
 timeout 5
