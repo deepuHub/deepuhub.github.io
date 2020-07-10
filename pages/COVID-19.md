@@ -1,7 +1,7 @@
 {% include Navigation.html %}
 
 
-**COVID-19 - last updated - 09-Jul-2020 23:26 IST**
+**COVID-19 - last updated - 09-Jul-2020 15:00 IST**
 
 **View the Daily graphs of Summary / Daily New cases in Total / District-wise for Andhra Pradesh, by clicking on the links below**
 
