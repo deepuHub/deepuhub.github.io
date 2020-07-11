@@ -10,7 +10,7 @@ echo Generating Plots - Summary
 octave --no-gui "c:\users\sgajula\notbackedup\me\learn\github\deepuhub\covid-19\plotcovid2019.m"
 echo Generating Plots - Total vs New
 octave --no-gui "c:\users\sgajula\notbackedup\me\learn\github\deepuhub\covid-19\plottotalvsnewperday.m"
-timeout 180
+timeout 90
 echo script to RunToAddDataNLinksNPlots ENDED at %time:~0,2%hrs%time:~3,2%min%time:~6,2%secs
 set commitdatetime=%time:~0,2%hrs%time:~3,2%min%time:~6,2%secs_%date:~-7,2%-%date:~-10,2%-%date:~-4,4% 
 echo commitdatetime is %commitdatetime%
