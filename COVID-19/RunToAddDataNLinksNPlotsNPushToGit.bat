@@ -18,6 +18,7 @@ echo commitdatetime is %commitdatetime%
 git status
 timeout 15
 git add .
+timeout 15
 git commit -a -m "Auto-push for %commitdatetime%"
 timeout 30
 git push origin master
