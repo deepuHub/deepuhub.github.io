@@ -8,8 +8,8 @@ regionList = cellstr(regionsstr);
 countRegions = size(regionList);
 countRegions = countRegions(1);
 % Store current date and time stamps														  
-% todaydate = '07-Jul-2020';
-todaydate = datestr(now(),'dd-mmm-yyyy');
+todaydate = '12-Jul-2020';
+% todaydate = datestr(now(),'dd-mmm-yyyy');
 todaydatetimewsecs = datestr(now(),'dd-mmm-yyyy HHMMSS');
 % create folder for graphs 
 mkdir("GraphsGenerated", todaydate);
@@ -49,7 +49,7 @@ while x<=countRegions
 	title ({[regionList{x} " COVID-19 Cases Summary as of " mat2str(datestrings(dtsize(1),3)) "-" mat2str(datestrings(dtsize(1),2)) "-" mat2str(datestrings(dtsize(1),1))]});	
 	datetick ("x", 'dd-mmm', "keepticks");
 	% Specified in plot order
-	h = legend('Positive cases', 'Active cases', 'Discharged cases', 'Deceased cases');
+	h = legend(["Positive cases - " mat2str(coviddata(dtsize(1),2)) ], ["Active cases - " mat2str(coviddata(dtsize(1),3))], ["Discharged cases - " mat2str(coviddata(dtsize(1),4))], ["Deceased cases - " mat2str(coviddata(dtsize(1),5))]);
 	legend (h, "location", "northwest");	
 		   
 	% Print Plot to a jpg file 		

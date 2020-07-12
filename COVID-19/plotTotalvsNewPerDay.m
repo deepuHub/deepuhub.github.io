@@ -7,8 +7,8 @@ regionList = cellstr(regionsstr);
 countRegions = size(regionList);
 countRegions = countRegions(1);
 % Store current date and time stamps
-% todaydate = '07-Jul-2020'; 
-todaydate = datestr(now(),'dd-mmm-yyyy');
+todaydate = '12-Jul-2020'; 
+% todaydate = datestr(now(),'dd-mmm-yyyy');
 todaydatetimewsecs =  datestr(now(),'dd-mmm-yyyy HHMMSS');
 % create folder for graphs 
 mkdir("GraphsGenerated", todaydate);
@@ -37,7 +37,7 @@ while x<=countRegions
 	% % Specified in plot order
 	title ({[regionList{x} " COVID-19 'Total cases cumulative' vs 'New cases per day' as of " mat2str(datestrings(dtsize(1),3)) "-" mat2str(datestrings(dtsize(1),2)) "-" mat2str(datestrings(dtsize(1),1))]});	
 
-	h = legend({'Number of New cases per day', 'Total Number of cases cumulative'}, "location", "northwest");	
+	h = legend({['Number of New cases per day - ' mat2str(coviddata(dtsize(1),1))], ['Total Number of cases cumulative - ' mat2str(coviddata(dtsize(1),2))]}, "location", "northwest");	
 	% % Print Plot to a jpg file 		
 	imagename = ["Last24Hrs_" regionList{x} "_" todaydate ".jpg"];
 	% save graph to a file
