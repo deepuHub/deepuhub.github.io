@@ -1,0 +1,5 @@
+Added file and links for 2020-07-15
+Updating Last updated date in Line to - **COVID-19 - last updated - 15-Jul-2020 IST**
+
+Adding Line - 15-Jul-20 |	<a href="https://deepuhub.github.io/COVID-19/pages/20200715-Summary" target="_blank">Summary<a/> | <a href="https://deepuhub.github.io/COVID-19/pages/20200715-TotalvsNew"	target="_blank">TotalvsNew<a/>
+
