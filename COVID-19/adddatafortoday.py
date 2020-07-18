@@ -36,7 +36,9 @@ if (path.exists(fileloc)):
                     elif regionname == 'Anantapur':
                         regionname = 'Ananthapur'
                     elif regionname == 'Visakhapatnam':
-                        regionname = 'Vishakapatnam'                    
+                        regionname = 'Vishakapatnam'
+                    elif regionname == 'Total':
+                        regionname = 'TotalWithOthers'
                     filedata = open("Data\\"+regionname.replace(" ","")+".dat","a")        
                     filedata.write("\n")
                     print('Adding data to '+ regionname)
