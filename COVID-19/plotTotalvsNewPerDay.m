@@ -1,5 +1,5 @@
 % Get the districts list
-regionsstr = [ "AndhraPradesh"; "OtherStates"; "OtherCountries"; "TotalWithOthers"];
+regionsstr = ["Ananthapur"; "Chittoor"; "EastGodavari"; "Guntur"; "Kadapa"; "Krishna"; "Kurnool"; "Nellore"; "Prakasam"; "Srikakulam"; "Vishakapatnam"; "Vizianagaram"; "WestGodavari"; "AndhraPradesh"; "OtherStates"; "OtherCountries"; "TotalWithOthers"];
 % regionsstr = ["Ananthapur"; "AndhraPradesh"];
 % regionsstr = ["Ananthapur"];
 regionList = cellstr(regionsstr);
