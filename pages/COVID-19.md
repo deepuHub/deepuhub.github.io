@@ -7,9 +7,13 @@
 
 **From 19-May to 19-Jun Govt did not release District wise data, hence graphs are present only for State data**
 
+Date | Summary and TotalvsNew Plots   
+------------ | -------------  
+18-Jul-20 |	<a href="https://deepuhub.github.io/COVID-19/pages/20200718-Plots" target="_blank">Summary and TotalvsNew Plots<a/> 
+
+
 Date | Type of Graph | Type of Graph  
 ------------ | ------------- | ------------ 
-18-Jul-20 |	<a href="https://deepuhub.github.io/COVID-19/pages/20200718-Summary" target="_blank">Summary<a/> | <a href="https://deepuhub.github.io/COVID-19/pages/20200718-TotalvsNew"	target="_blank">TotalvsNew<a/>
 17-Jul-20 |	<a href="https://deepuhub.github.io/COVID-19/pages/20200717-Summary" target="_blank">Summary<a/> | <a href="https://deepuhub.github.io/COVID-19/pages/20200717-TotalvsNew"	target="_blank">TotalvsNew<a/>
 16-Jul-20 |	<a href="https://deepuhub.github.io/COVID-19/pages/20200716-Summary" target="_blank">Summary<a/> | <a href="https://deepuhub.github.io/COVID-19/pages/20200716-TotalvsNew"	target="_blank">TotalvsNew<a/>
 15-Jul-20 |	<a href="https://deepuhub.github.io/COVID-19/pages/20200715-Summary" target="_blank">Summary<a/> | <a href="https://deepuhub.github.io/COVID-19/pages/20200715-TotalvsNew"	target="_blank">TotalvsNew<a/>
