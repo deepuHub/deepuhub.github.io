@@ -22,6 +22,6 @@ I am ~~planning~~ thinking to do a half marathon in ~~2019~~ ~~2020~~, but alrea
 <br>
 <img src="https://deepuhub.github.io/images/10K_Gits.png" alt="10K Result - 01st Dec 2018">
 <br>
-<img src="https://deepuhub.github.io/images/10K_Gits.png" alt="10K Result - 25th Jan 2020">
+<img src="https://deepuhub.github.io/images/10K_Jan2020.PNG" alt="10K Result - 25th Jan 2020">
 <br>
 {% include Navigation.html %}
