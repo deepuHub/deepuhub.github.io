@@ -13,13 +13,13 @@
 
 {% include Navigation.html %}
 <br>
-# I like to <a href="https://cricclubs.com/IndiaHouseHoustonPremierLeague/viewPlayer.do?playerId=648419&clubId=3935" target="_blank">play 🏏</a>, here are the <a href="https://cricclubs.com/IndiaHouseHoustonPremierLeague/teamSchedule.do?teamId=91&clubId=3935" target="_blank">IH schedule</a> and <a href="https://cricclubs.com/HTBTcricket/teamSchedule.do?teamId=160&clubId=4110" target="_blank">SSCL schedule</a> for CRUSHERS.
+# I like to <a href="https://cricclubs.com/IndiaHouseHoustonPremierLeague/viewPlayer.do?playerId=648419&clubId=3935" target="_blank">play 🏏</a>. My team 'CRUSHERS' in <a href="https://cricclubs.com/SSCLHouston/viewTeam.do?teamId=160&clubId=4110" target="_blank">India House Club</a> and <a href="https://cricclubs.com/IHHPL/viewTeam.do?teamId=91&clubId=3935" target="_blank">SSCL Club</a>.
 <br>
-# [My running career 🏃🏽‍](https://deepuhub.github.io/pages/Run) has just begun...
+# [My running career 🏃🏽‍](https://deepuhub.github.io/pages/Run) has begun...
 <br>
 # Yeah, I drew [Inspirations!!](https://deepuhub.github.io/pages/Inspirations)
 <br>
-# Here is [My choice of Phone OS](https://deepuhub.github.io/pages/MyChoiceOfPhoneOS).
+#### Here is [My choice of Phone OS](https://deepuhub.github.io/pages/MyChoiceOfPhoneOS).
 <br>
 #### Thank you🙏🏽 for spending your valuable ⌚ on my site!
 <br>
