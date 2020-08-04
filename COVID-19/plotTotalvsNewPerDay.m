@@ -8,7 +8,7 @@ countRegions = size(regionList);
 countRegions = countRegions(1);
 % Store current date and time stamps
 todaydate = datestr(now(),'dd-mmm-yyyy');
-todaydate = '03-Aug-2020';
+% todaydate = '03-Aug-2020';
 todaydatetimewsecs =  datestr(now(),'dd-mmm-yyyy HHMMSS');
 % create folder for graphs 
 mkdir("GraphsGenerated", todaydate);
