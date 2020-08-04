@@ -6,7 +6,7 @@ from os import path
 
 # get today's excel
 today = datetime.date.today()
-#today = today - datetime.timedelta(days=1)
+today = today - datetime.timedelta(days=1)
 #print(today);
 todayexcel = today.strftime("%d-%b-%Y")
 todaydate = today.strftime("%Y,%m,%d,0,0,0")
