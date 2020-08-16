@@ -30,7 +30,7 @@ if (path.exists(fileloc)):
                 #elif a == b:
                 if i != 0:
                     #print(sheet.cell_value(i,0))
-                    regionname = sheet.cell_value(i,0)
+                    regionname = sheet.cell_value(i,1)
                     if regionname == "Total AP Cases":
                         regionname = 'AndhraPradesh'
                     elif regionname == 'Anantapur':
@@ -46,11 +46,11 @@ if (path.exists(fileloc)):
                     for j in range(sheet.ncols):
                         #print(j)
                         if j != 0:
-                            if j > 1 and j != 5:
+                            if j > 2 and j != 6:
                                 filedata.write(","+str(int(sheet.cell_value(i,j))))
-                            elif j == 1:
+                            elif j == 2:
                                 filedata.write(str(int(sheet.cell_value(i,j))))
-                            elif j == 5:
+                            elif j == 6:
                                 filedata.write("," + str(int(sheet.cell_value(i,j))) + "," + toddate)
                     filedata.close()
                     print('Completed Adding data to '+ regionname)
