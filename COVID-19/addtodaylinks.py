@@ -7,9 +7,9 @@ from os import path
 
 # get today
 today = datetime.date.today()
-today = today - datetime.timedelta(days=1)
+#today = today - datetime.timedelta(days=1)
 # get yesterday date formats required
-yest = today - datetime.timedelta(days=2)
+yest = today - datetime.timedelta(days=1)
 yestddmmmyyyy = str(yest.strftime("%d-%b-%Y"))
 yestddmmmyy = str(yest.strftime("%d-%b-%y"))
 yestyyyymmdd = str(yest.strftime("%Y%m%d"))
