@@ -1,0 +1,38 @@
+Found Data\dailyexcels\05-Sep-2020.xlsx
+Adding today date to dates.dat file
+Completed Adding today date to dates.dat file
+Adding data to Ananthapur
+Completed Adding data to Ananthapur
+Adding data to Chittoor
+Completed Adding data to Chittoor
+Adding data to East Godavari
+Completed Adding data to East Godavari
+Adding data to Guntur
+Completed Adding data to Guntur
+Adding data to Kadapa
+Completed Adding data to Kadapa
+Adding data to Krishna
+Completed Adding data to Krishna
+Adding data to Kurnool
+Completed Adding data to Kurnool
+Adding data to Nellore
+Completed Adding data to Nellore
+Adding data to Prakasam
+Completed Adding data to Prakasam
+Adding data to Srikakulam
+Completed Adding data to Srikakulam
+Adding data to Vishakapatnam
+Completed Adding data to Vishakapatnam
+Adding data to Vizianagaram
+Completed Adding data to Vizianagaram
+Adding data to West Godavari
+Completed Adding data to West Godavari
+Adding data to AndhraPradesh
+Completed Adding data to AndhraPradesh
+Adding data to Other States
+Completed Adding data to Other States
+Adding data to Other Countries
+Completed Adding data to Other Countries
+Adding data to TotalWithOthers
+Completed Adding data to TotalWithOthers
+Completed Adding data for 05-Sep-2020
