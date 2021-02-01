@@ -25,7 +25,7 @@ DIY | Auto generate CV as webpage and pdf  | Build my GitHub pages | Work, Read,
 Fitness | 7 min | <a href="https://deepuhub.github.io/images/09-Apr-2020_30DayArms.JPG.png" target="_blank">30 day Arm challenge</a> | 13.1 mile | --
 
 <br>
-#### You can visit <a href="https://deepuhub.github.io/pages/personal"> my personal page</a> to know more about me.
+#### You can visit <a href="https://deepuhub.github.io/pages/personal"> my personal page</a> to know more about me. (<a href="https://deepuhub.github.io/images/logo.jpg"> logo</a>)
 <br>
 ##### Thank you🙏🏽 for spending your valuable ⌚ on my site!
 <br>
