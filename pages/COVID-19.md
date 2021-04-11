@@ -6,6 +6,7 @@
 
 Date | Summary and TotalvsNew Plots   
 ------------ | -------------  
+11-Apr-21 |	<a href="https://deepuhub.github.io/COVID-19/pages/20210411-Plots" target="_blank">Summary and TotalvsNew Plots<a/>
 09-Sep-20 |	<a href="https://deepuhub.github.io/COVID-19/pages/20200909-Plots" target="_blank">Summary and TotalvsNew Plots<a/> 
 08-Sep-20 |	<a href="https://deepuhub.github.io/COVID-19/pages/20200908-Plots" target="_blank">Summary and TotalvsNew Plots<a/> 
 07-Sep-20 |	<a href="https://deepuhub.github.io/COVID-19/pages/20200907-Plots" target="_blank">Summary and TotalvsNew Plots<a/> 
