@@ -1,0 +1,2 @@
+Found Data\dailyexcels\12-Apr-2021.xlsx
+dates.dat file already contains the date 2021,04,12,0,0,0
