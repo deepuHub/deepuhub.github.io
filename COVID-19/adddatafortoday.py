@@ -37,6 +37,8 @@ if (path.exists(fileloc)):
                         regionname = 'Ananthapur'
                     elif regionname == 'Visakhapatnam':
                         regionname = 'Vishakapatnam'
+                    elif regionname == 'YSR Kadapa':
+                        regionname = 'Kadapa'
                     elif regionname == 'Total':
                         regionname = 'TotalWithOthers'
                     filedata = open("Data\\"+regionname.replace(" ","")+".dat","a")        
