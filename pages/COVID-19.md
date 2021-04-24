@@ -4,6 +4,10 @@
 
 **View the Daily graphs of Summary / Daily New cases in Total & District-wise for Andhra Pradesh - India, by clicking on the links below**
 
+**<a href="https://deepuhub.github.io/COVID-19/pages/Googlechart_Calendar_AP.html" target="_blank">Andhra Pradesh Calendar chart<a/>**
+**<a href="https://deepuhub.github.io/COVID-19/pages/Googlechart_Calendar_Anantapur.html" target="_blank">Anantapur Calendar chart<a/>**
+
+
 Date | Summary and TotalvsNew Plots   
 ------------ | -------------  
 24-Apr-21 |	<a href="https://deepuhub.github.io/COVID-19/pages/20210424-Plots" target="_blank">Summary and TotalvsNew Plots<a/>
