@@ -60,9 +60,9 @@ Welcome to my blog where I share my exciting journey of growing plants using an 
    
 
 ## Timeline
-| Date         | Activity                                                                                      |
+| Date | Activity |
 |--------------|-----------------------------------------------------------------------------------------------|
-| 25-Jul-2024  | Sowed seeds in cocodisks                                                                      |
+| 25-Jul-2024 | Sowed seeds in cocodisks |
 
 
 ## Conclusion
