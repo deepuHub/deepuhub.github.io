@@ -5,18 +5,19 @@ Welcome to my blog where I share my exciting journey of growing plants using an 
 
 ## Getting Started
 1. **Purchasing the Kit**  
-   I purchased the DIY kit from We Green Warriors. The kit came with full instructions on how to set up, including a QR scanner for video links.
-   !DIY Kit
+   I purchased the DIY kit from We Green Warriors. The kit came with full instructions on how to set up, including a QR scanner for video links. 
+   (_<a href="https://www.wegreenwarriors.org/product-page/12-planter-aeroponic-tower-with-accessories" target="_blank">12 Planter Aeroponic Tower with Accessories</a>_)
+   <br> _Note: This website is in India, just in case you are not able to access._
 
-2. **Setting Up the Tower**  
-   I carefully followed the instructions provided in the kit to set up the tower.
-   !Setting Up the Tower
 
-3. **Planting Seeds**  
+3. **Setting Up the Tower**  
+   I carefully followed the instructions provided in the kit to set up the tower.   
+
+4. **Planting Seeds**  
    I planted seeds into the cocodisks as per the instructions.
-   !Planting Seeds
+   
 
-4. **Transferring Saplings**  
+5. **Transferring Saplings**  
    In two weeks, the saplings were ready to be transferred to the tower.
    !Transferring Saplings
 
