@@ -74,6 +74,10 @@ Spotlight | Present
 ------------ | -------------
 Read | <a href="https://www.linkedin.com/feed/update/urn:li:activity:7079707672178012160/" target="_blank">Elements of Indic Knowledge Systems & Heritage</a>
 
+Date | Activity
+------------ | -------------
+25-Jul-2024 | Sowed seeds in cocodisks
+
 
 ## Conclusion
 This journey has been incredibly rewarding, and I look forward to continuing to experiment and grow more plants using my aeroponics tower. Stay tuned for more updates! Please feel free to ask your questions on X 
