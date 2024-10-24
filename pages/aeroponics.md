@@ -3,18 +3,6 @@
 ## Introduction
 Welcome to my blog where I share my exciting journey of growing plants using an aeroponics tower. I started this project with a DIY kit and have learned a lot along the way. Here’s a detailed account of my experience.
 
-## Timeline
-Date | Activity
-------------- | -----------------
-25-Jul-2024 | Sowed seeds in cocodisks
-11-Aug-2024 | Placed spinach and coriander saplings in the aeroponics tower
-12-Aug-2024 | Added nutrients to water in the tower as suggested in the manual. Maintained pH 350 to 400 ppm using the TDS meter provided in the kit
-18-Aug-2024 | Placed cucumber saplings in the aeroponics tower
-04-Sep-2024 | Added nutrients to water in the tower as suggested in the manual. Maintained pH 500 to 650 ppm using the TDS meter provided in the kit
-08-Sep-2024 | Coriander was harvested
-12-Sep-2024 | Cucumber flowers bloomed. Spinach was ready for harvest. Cleaned the tower and added fresh water and nutrients to pH 500 to 650 ppm
-
-
 ## Getting Started
 1. **Purchasing the Kit**  
    I purchased the DIY kit from We Green Warriors. The kit came with full instructions on how to set up, including a QR scanner for video links. 
@@ -88,6 +76,13 @@ Read | <a href="https://www.linkedin.com/feed/update/urn:li:activity:70797076721
 
 Date | Activity
 ------------ | -------------
+25-Jul-2024 | Sowed seeds in cocodisks
+11-Aug-2024 | Placed spinach and coriander saplings in the aeroponics tower
+12-Aug-2024 | Added nutrients to water in the tower as suggested in the manual. Maintained pH 350 to 400 ppm using the TDS meter provided in the kit
+25-Jul-2024 | Sowed seeds in cocodisks
+25-Jul-2024 | Sowed seeds in cocodisks
+25-Jul-2024 | Sowed seeds in cocodisks
+25-Jul-2024 | Sowed seeds in cocodisks
 25-Jul-2024 | Sowed seeds in cocodisks
 
 
