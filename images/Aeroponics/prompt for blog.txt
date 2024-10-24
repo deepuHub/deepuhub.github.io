@@ -1,0 +1,32 @@
+help me improve the prompt for below 
+
+"so help me write a blog about my aeropoincs journey. write it in a markdown file and have table for the timeline. I should be able to copy this to my github pages  
+
+1. I purchased the DIY kit from https://www.wegreenwarriors.org/product-page/12-planter-aeroponic-tower-with-accessories
+It has full instructions on how to setup including QR scanner for video link 
+
+2. I carefully followed my instructions for the setup of hte tower. 
+
+3. I planted seeds into the cocodisks as per the instrucitons
+
+4. In 2 weeks time the saplings were ready to be transferred to the Tower. 
+
+5. Coriander was easy to, spinach was succeessful as well, However I was not able to get a sapling of other seeds provided namely, Basil, Lettuce. 
+
+6. I purchased cucumber seeds from a local nursery and it was promising, I am waiting for the first cucumber  
+
+7. Spinach was ready for harvest in 3 months 
+
+Here is the timeline 
+
+25-Jul-2024 : Sow seeds in cocodisks
+
+11-Aug-2024 : Place Spinach/Coriander saplings in Aeroponics tower
+
+12-Aug-2024 : Add Nutrients to water in the Tower as suggested in the manual - Maintain PH 350 to 400 ppm using the TDS meter provided in the kit
+
+18-Aug-2024 : Place Cucumber saplings in Aeroponics tower
+
+04-Sep-2024 : Add Nutrients to water in the Tower as suggested in the manual - Maintain PH 500 to 650 ppm using the TDS meter provided in the kit
+
+12-Sep-2024 : Cucumber flowers bloomed. Spinach is ready for harvest. Cleaned the tower and Added fresh water and nutrients to PH 500 to 650 ppm "
