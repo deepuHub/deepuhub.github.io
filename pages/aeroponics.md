@@ -76,7 +76,7 @@ Date | Activity
 
 
 ## Conclusion
-This journey has been incredibly rewarding, and I look forward to continuing to experiment and grow more plants using my aeroponics tower. Stay tuned for more updates! Please feel free to ask your questions on X 
+This journey has been incredibly rewarding, and I look forward to continuing to experiment and grow more plants using my aeroponics tower. Stay tuned for more updates! Please feel free to reach me on Twitter(X) or Reddit. 
 
 <br>
 {% include Navigation.html %}
