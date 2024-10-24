@@ -48,7 +48,7 @@ Welcome to my blog where I share my exciting journey of growing plants using an 
    <img src="https://deepuhub.github.io/images/Aeroponics/Cucumber_Image2.jpeg" alt="Cucumber_Image2">
    
 7. **Harvesting Coriander & Spinach**  
-   Coriander was ready to harvest in a couple of weeks. Spinach was ready for harvest in three months.
+   Coriander was ready to harvest in a couple of weeks. Spinach was ready for harvest in 1 month.
    <br>
    <img src="https://deepuhub.github.io/images/Aeroponics/Coriander_Harvest.jpeg" alt="Coriander_Harvest">   
    <br>
