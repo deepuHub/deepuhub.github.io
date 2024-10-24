@@ -48,7 +48,7 @@ Welcome to my blog where I share my exciting journey of growing plants using an 
    <img src="https://deepuhub.github.io/images/Aeroponics/Cucumber_Image2.jpeg" alt="Cucumber_Image2">
    
 7. **Harvesting Coriander & Spinach**  
-   Coriander was ready to harvest in a couple of weeks. Spinach was ready for harvest in 1 month.
+   Coriander was ready to harvest in a couple of weeks. Spinach was ready for harvest in 2 months.
    <br>
    <img src="https://deepuhub.github.io/images/Aeroponics/Coriander_Harvest.jpeg" alt="Coriander_Harvest">   
    <br>
@@ -69,7 +69,8 @@ Date | Activity
 18-Aug-2024 | Placed cucumber saplings in the aeroponics tower
 04-Sep-2024 | Added nutrients to water in the tower as suggested in the manual. Maintained pH 500 to 650 ppm using the TDS meter provided in the kit
 08-Sep-2024 | Harvested Coriander leaves
-12-Sep-2024 | Cucumber flowers bloomed. Spinach was ready for harvest. Cleaned the tower and added fresh water and nutrients to pH 500 to 650 ppm
+12-Sep-2024 | Cucumber flowers bloomed. Spinach was progressing. Cleaned the tower and added fresh water and nutrients to pH 500 to 650 ppm
+14-Oct-2024 | Harvested Spinach
 
 
 ## Conclusion
