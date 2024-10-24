@@ -60,10 +60,6 @@ Welcome to my blog where I share my exciting journey of growing plants using an 
    
 
 ## Timeline
-Spotlight | Present
------------- | -------------
-Read | <a href="https://www.linkedin.com/feed/update/urn:li:activity:7079707672178012160/" target="_blank">Elements of Indic Knowledge Systems & Heritage</a>
-
 Date | Activity
 ------------ | -------------
 25-Jul-2024 | Sowed seeds in cocodisks
