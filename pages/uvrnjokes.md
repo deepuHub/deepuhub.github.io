@@ -3,11 +3,12 @@
 ## S: While brushing, You are not eating healthy food, look at your teeth they are turning black
 UV : Can I drink that Chocolate milk shake in school then? 
 
-## Why did the scarecrow win an award?
-Because he was outstanding in his field!
+## In the Flight from Bangalore to Pune: After talking a while with the co-passenger
+UV: Are you also going to Pune? 
 
-## Why don't skeletons fight each other?
-They don't have the guts.
+## After Dentist appointment for mom.
+Mom: I am eating icecream
+UV: You went to a dentist and still eating junk food ice cream.
 
 ## What do you call fake spaghetti?
 An impasta!
