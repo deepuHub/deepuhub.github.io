@@ -24,4 +24,10 @@ I am ~~planning~~ thinking to do a half marathon in ~~2019~~ ~~2020~~, but alrea
 <br>
 <img src="https://deepuhub.github.io/images/10K_Jan2020.PNG" alt="10K Result - 25th Jan 2020">
 <br>
+<br>
+<img src="https://deepuhub.github.io/images/HF_RaceDay_Timing.jpeg" alt="Half-Marathon Result - 01st Dec 2024">
+<br>
+<br>
+<img src="https://deepuhub.github.io/images/HF_Medal.jpeg" alt="Half-Marathon Medal - 01st Dec 2024">
+<br>
 {% include Navigation.html %}
