@@ -23,7 +23,7 @@ Spotlight | Present | Recent Past | Near Future | Timeline
 Read | <a href="https://www.linkedin.com/feed/update/urn:li:activity:7079707672178012160/" target="_blank">Elements of Indic Knowledge Systems & Heritage</a> | <a href="https://www.amazon.com/Health-Your-Hands-v-1/dp/8124301263" target="_blank">Health in Your Hands: v. 1 by Devendra Vora</a> | <a href="https://www.amazon.com/Health-Your-Hands-Diagnosis-Diseases/dp/8124309000/ref=pd_sbs_1/137-6342557-8379543?pd_rd_w=T1nuU&pf_rd_p=3676f086-9496-4fd7-8490-77cf7f43f846&pf_rd_r=5PS3K80K866AFSKA4SD7&pd_rd_r=ac33b9d5-064a-4d77-bb28-538dba15859e&pd_rd_wg=9fqJz&pd_rd_i=8124309000&psc=1" target="_blank">Health In Your Hands: Instant Diagnosis & Cure of Serious</a> | <a href="https://deepuhub.github.io/reading-list/" target="_blank">Reading belt</a> 
 Learn | <a href="https://www.coursera.org/learn/machine-learning?" target="_blank">Machine Learning</a> | <a href="https://www.coursera.org/learn/ai-for-everyone?" target="_blank">AI For Everyone</a> | <a href="https://www.coursera.org/specializations/deep-learning?" target="_blank">Deep Learning Specialization</a> | <a href="https://deepuhub.github.io/learning-list/" target="_blank">Learning belt</a> 
 DIY | Auto generate CV as webpage and pdf  | Build my GitHub pages | Work, Read, Learn, Have Fun, Repeat! |  No Data, Generate it! 
-Fitness | Pullups Pushups | 13.1 mile(Half-Marathon) | 26.2 (Full-Marathon) | --
+Fitness | Pullups Pushups | 13.1 mile(Half-Marathon) | 26.2 (Full-Marathon) | <a href="https://deepuhub.github.io/lifestyletimeline/" target="_blank">Lifestyle Timeline</a>
 
 <br>
 #### You can visit <a href="https://deepuhub.github.io/pages/personal"> my personal page</a> to know more about me.
