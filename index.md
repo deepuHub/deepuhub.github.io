@@ -14,8 +14,6 @@
 <br>
 ## Saideep Gajula 
 ### CV <a href="https://github.com/deepuHub/deepuhub.github.io/blob/master/docs/Saideep%20Gajula.pdf?raw=true" target="_blank">pdf<a/> <a href="https://github.com/deepuHub/deepuhub.github.io/blob/master/docs/Saideep%20Gajula.docx?raw=true" target="_blank">docx<a/>
-<br>
-
 ### <a href="https://deepuhub.github.io/pages/hydroponics" target="_blank">My Hydroponics Journey<a/>.
   
 Spotlight | Present | Recent Past | Near Future | Timeline
