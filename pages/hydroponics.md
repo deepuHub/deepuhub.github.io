@@ -64,7 +64,7 @@ Welcome to my blog where I share my exciting journey of growing plants using an 
 Date | Activity
 ------------ | -------------
 25-Jul-2024 | Sowed seeds in cocodisks
-11-Aug-2024 | Placed spinach and coriander saplings in the aeroponics tower
+11-Aug-2024 | Placed spinach and coriander saplings in the hydroponics tower
 12-Aug-2024 | Added nutrients to water in the tower as suggested in the manual. Maintained pH 350 to 400 ppm using the TDS meter provided in the kit
 18-Aug-2024 | Placed cucumber saplings in the aeroponics tower
 04-Sep-2024 | Added nutrients to water in the tower as suggested in the manual. Maintained pH 500 to 650 ppm using the TDS meter provided in the kit
@@ -74,7 +74,7 @@ Date | Activity
 
 
 ## Conclusion
-This journey has been incredibly rewarding, and I look forward to continuing to experiment and grow more plants using my aeroponics tower. Stay tuned for more updates! Please feel free to reach me on Twitter(X) or Reddit. 
+This journey has been incredibly rewarding, and I look forward to continuing to experiment and grow more plants using my hydroponics tower. Stay tuned for more updates! Please feel free to reach me on Twitter(X) or Reddit. 
 
 <br>
 {% include Navigation.html %}
