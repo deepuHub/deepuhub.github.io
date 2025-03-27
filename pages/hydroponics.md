@@ -1,7 +1,7 @@
-# My Aeroponics Journey
+# My Hydroponics Journey
 
 ## Introduction
-Welcome to my blog where I share my exciting journey of growing plants using an aeroponics tower. I started this project with a DIY kit and have learned a lot along the way. Here’s a detailed account of my experience.
+Welcome to my blog where I share my exciting journey of growing plants using an hydroponics tower. I started this project with a DIY kit and have learned a lot along the way. Here’s a detailed account of my experience.
 
 ## Getting Started
 1. **Purchasing the Kit**  
